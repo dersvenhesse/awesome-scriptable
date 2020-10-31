@@ -39,6 +39,10 @@ tbc
 
   <img src="https://user-images.githubusercontent.com/17153908/95031000-bdd3e980-0689-11eb-83ce-49e2adbe1ca1.jpg" width="400"/>
 
+- [daysUntilBirthday](https://github.com/lwitzani/daysUntilBirthday) - List of contacts upcoming birthdays.
+
+  <img src="https://github.com/lwitzani/daysUntilBirthday/raw/main/fullySetupWidget.PNG" width="400"/>
+
 - [scriptable-calendar-widget](https://github.com/rudotriton/scriptable-calendar-widget) - Customizable calendar.
 
   <img src="https://github.com/rudotriton/scriptable-calendar-widget/raw/main/assets/widget.jpg" width="400"/>
@@ -70,7 +74,7 @@ tbc
 
 ### Social
 
-- [conversable-for-scriptable](https://github.com/andyngo/conversable-for-scriptable) - Start conversations directly.
+- [conversable-for-scriptable](https://github.com/andyngo/conversable-for-scriptable) - Contact icons to start conversations with.
 
   <img src="https://github.com/andyngo/conversable-for-scriptable/raw/main/conversable.png" width="400"/>
 
@@ -80,9 +84,9 @@ tbc
 
 ### Sports
 
-- [fitx-widget.js](https://gist.github.com/DanielStefanK/487175b6f65ede401e37ee4848970176) - Workload of FitX gym.
+- [fitx-widget.js](https://gist.github.com/DanielStefanK/487175b6f65ede401e37ee4848970176) - Workload of a FitX gym.
 - [rsg_group_mcfit_high5_johnreed_capacity_widget.js](https://gist.github.com/masselmello/6d4f4c533b98b2550ee23a7a5e6c6cff) - Capacity of nearst McFit gym.
-- [Upcoming Matches](https://gist.github.com/ilyichvismara/7895bb479e14a999f3cfd2c391f10597) - Upcoming matches of your favourite football team.
+- [Upcoming Matches](https://gist.github.com/ilyichvismara/7895bb479e14a999f3cfd2c391f10597) - Upcoming matches of a football team.
 
 ### Tools
 
@@ -98,3 +102,9 @@ tbc
 - [PurpleAir-AQI-Scriptable-Widget](https://github.com/jasonsnell/PurpleAir-AQI-Scriptable-Widget) - Air Quality from PurpleAir sensor.
 
   <img src="https://camo.githubusercontent.com/1fdb80ce7198c16a4fafd1586a45307bbf255962/68747470733a2f2f736978636f6c6f72732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31302f7769646765742d6c61746573742e6a706567" width="400"/>
+
+- [scriptable-WordPress.js](https://gist.github.com/Saudumm/eb9b04e556a874b508d1aab21aebb545) - Latest posts from a Wordpress blog.
+
+  <img src="https://user-images.githubusercontent.com/810494/97783785-3ac78580-1b9a-11eb-93f2-265264eb11f8.jpg" width="400"/>
+
+- [server-status-widget.js](https://gist.github.com/dioncodes/cd4554d8593814a94925735cbcdea0c8) - Reachability of web servers.
