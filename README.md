@@ -26,7 +26,12 @@ tbc
 ### Cars
 
 * [TeslaData-Widget](https://github.com/DrieStone/TeslaData-Widget) - Tesla data (i.a. charging, doors locked)
+  
+  <img src="https://github.com/DrieStone/TeslaData-Widget/blob/main/TeslaFi_Screen.v8.png" width="400"/>
+
 * [ZOE-Widget.js](https://gist.github.com/mountbatt/772e4512089802a2aa2622058dd1ded7) - Renault Zoe data (i.a. charging, position)
+
+  <img src="https://user-images.githubusercontent.com/2411246/97786189-41f68f80-1baa-11eb-9c6f-96e8d8f7684a.jpeg" width="400"/>
 
 ### Calendar
 
@@ -41,6 +46,9 @@ tbc
 ### Mobile
 
 * [telekom.js](https://gist.github.com/Sillium/f904fb89444bc8dde12cfc07b8fa8728) - Data consumption based on tariff for Telekom.de
+
+  <img src="https://user-images.githubusercontent.com/8177259/96705591-cb7db480-1395-11eb-8fb3-cff401898bc2.jpg" width="800"/>
+
 * [VodafoneDE](https://github.com/ThisIsBenny/iOS-Widgets/tree/main/VodafoneDE) - Data consumption based on tariff for Vodafone DE
 
 ### Music
