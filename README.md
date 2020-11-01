@@ -43,8 +43,7 @@ A curated list of awesome [Scriptable](https://scriptable.app/) scripts and widg
 
 - [daysUntilBirthday](https://github.com/lwitzani/daysUntilBirthday) - List of contacts upcoming birthdays.
 
-  <img src="https://github.com/lwitzani/daysUntilBirthday/
-  /main/fullySetupWidget.PNG" width="400"/>
+  <img src="https://raw.githubusercontent.com/lwitzani/daysUntilBirthday/main/fullySetupWidget.PNG" width="400"/>
 
 - [scriptable-calendar-widget](https://github.com/rudotriton/scriptable-calendar-widget) - Customizable calendar.
 
