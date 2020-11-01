@@ -116,4 +116,8 @@ A curated list of awesome [Scriptable](https://scriptable.app/) scripts and widg
 
 - [server-status-widget.js](https://gist.github.com/dioncodes/cd4554d8593814a94925735cbcdea0c8) - Reachability of web servers.
 
+- [tagesschau-widget](https://github.com/trbnhck/scriptable-scripts/tree/main/tagesschau-widget) - Latest article from German news site.
+
+  <img src="https://raw.githubusercontent.com/trbnhck/scriptable-scripts/main/tagesschau-widget/assets/F5D86069-CAD8-44D9-ACC4-54E2B82214A9.jpeg" width="400"/>
+
 - [xkcd.js](https://github.com/supermamon/scriptable-scripts/blob/master/xkcd-widget/xkcd.js) - Current or random xkcd comic.
