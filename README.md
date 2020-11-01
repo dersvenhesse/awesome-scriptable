@@ -19,7 +19,9 @@ A curated list of awesome [Scriptable](https://scriptable.app/) scripts and widg
   
 ## Scripts
 
-tbc
+### Tools
+
+- [Import-Script.js](https://github.com/supermamon/scriptable-scripts/blob/master/Import-Script.js) - Download from into Scriptable.
 
 ## Widgets
 
@@ -27,7 +29,7 @@ tbc
 
 - [TeslaData-Widget](https://github.com/DrieStone/TeslaData-Widget) - Tesla data (i.a. charging, doors locked)
   
-  <img src="https://github.com/DrieStone/TeslaData-Widget/blob/main/TeslaFi_Screen.v8.png" width="400"/>
+  <img src="https://github.com/DrieStone/TeslaData-Widget/raw/main/documentation/screen_001.png" width="400"/>
 
 - [ZOE-Widget.js](https://gist.github.com/mountbatt/772e4512089802a2aa2622058dd1ded7) - Renault Zoe data (i.a. charging, position)
 
@@ -41,7 +43,8 @@ tbc
 
 - [daysUntilBirthday](https://github.com/lwitzani/daysUntilBirthday) - List of contacts upcoming birthdays.
 
-  <img src="https://github.com/lwitzani/daysUntilBirthday/raw/main/fullySetupWidget.PNG" width="400"/>
+  <img src="https://github.com/lwitzani/daysUntilBirthday/
+  /main/fullySetupWidget.PNG" width="400"/>
 
 - [scriptable-calendar-widget](https://github.com/rudotriton/scriptable-calendar-widget) - Customizable calendar.
 
@@ -78,6 +81,8 @@ tbc
 
   <img src="https://github.com/andyngo/conversable-for-scriptable/raw/main/conversable.png" width="400"/>
 
+- [ig-latest-post.js](https://github.com/supermamon/scriptable-scripts/blob/master/instagram-widgets/ig-latest-post.js) - Latest post from selected Instagram users.
+
 - [termiWidget.js](https://gist.github.com/spencerwooo/7955aefc4ffa5bc8ae7c83d85d05e7a4) - Terminal-like output of subscriber amount.
 
   <img src="https://user-images.githubusercontent.com/32114380/90952313-18780400-e495-11ea-9791-20634a895af6.PNG" width="400"/>
@@ -94,6 +99,8 @@ tbc
 
   <img src="https://user-images.githubusercontent.com/9810829/96903902-b3418e80-1496-11eb-954c-1e2d9b8f9c69.JPG" width="400"/>
 
+- [exchangeRate.js](https://github.com/Juniorchen2012/scriptable/blob/master/exchangeRate.js) - Currecy exchange rates.
+
 - [gitlab-stats-for-scribtable](https://github.com/p0fi/gitlab-stats-for-scribtable) - Statistics from GitLab.
 
   <img src="https://github.com/p0fi/gitlab-stats-for-scribtable/raw/main/cover.png" width="800"/>
@@ -108,3 +115,5 @@ tbc
   <img src="https://user-images.githubusercontent.com/810494/97783785-3ac78580-1b9a-11eb-93f2-265264eb11f8.jpg" width="400"/>
 
 - [server-status-widget.js](https://gist.github.com/dioncodes/cd4554d8593814a94925735cbcdea0c8) - Reachability of web servers.
+
+- [xkcd.js](https://github.com/supermamon/scriptable-scripts/blob/master/xkcd-widget/xkcd.js) - Current or random xkcd comic.
