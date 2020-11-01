@@ -21,7 +21,7 @@ A curated list of awesome [Scriptable](https://scriptable.app/) scripts and widg
 
 ### Tools
 
-- [Import-Script.js](https://github.com/supermamon/scriptable-scripts/blob/master/Import-Script.js) - Download from into Scriptable.
+- [Import-Script.js](https://github.com/supermamon/scriptable-scripts/blob/master/Import-Script.js) - Download code (i.e. from Pastebin, GitHub) into Scriptable.
 
 ## Widgets
 
