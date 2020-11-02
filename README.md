@@ -109,6 +109,10 @@ A curated list of awesome [Scriptable](https://scriptable.app/) scripts and widg
 
   <img src="https://camo.githubusercontent.com/1fdb80ce7198c16a4fafd1586a45307bbf255962/68747470733a2f2f736978636f6c6f72732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31302f7769646765742d6c61746573742e6a706567" width="400"/>
 
+- [Scriptables-WindowWidget](https://github.com/Robby3St/Scriptables-WindowWidget) - Setting reminders for room ventilation.
+
+  <img src="https://raw.githubusercontent.com/Robby3St/Scriptables-WindowWidget/main/preview.jpg" width="400"/>
+  
 - [scriptable-WordPress.js](https://gist.github.com/Saudumm/eb9b04e556a874b508d1aab21aebb545) - Latest posts from a Wordpress blog.
 
   <img src="https://user-images.githubusercontent.com/810494/97783785-3ac78580-1b9a-11eb-93f2-265264eb11f8.jpg" width="400"/>
