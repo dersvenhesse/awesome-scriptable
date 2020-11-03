@@ -29,11 +29,11 @@ A curated list of awesome [Scriptable](https://scriptable.app/) scripts and widg
 
 ### Cars
 
-- [TeslaData-Widget](https://github.com/DrieStone/TeslaData-Widget) - Tesla data (i.a. charging, doors locked)
+- [TeslaData-Widget](https://github.com/DrieStone/TeslaData-Widget) - Informations about your Tesla like charging status and doors locked/unlocked.
   
   <img src="https://github.com/DrieStone/TeslaData-Widget/raw/main/documentation/screen_001.png" width="400"/>
 
-- [ZOE-Widget.js](https://gist.github.com/mountbatt/772e4512089802a2aa2622058dd1ded7) - Renault Zoe data (i.a. charging, position)
+- [ZOE-Widget.js](https://gist.github.com/mountbatt/772e4512089802a2aa2622058dd1ded7) - Informations about your Renault Zoe like charging or position.
 
   <img src="https://user-images.githubusercontent.com/2411246/97786189-41f68f80-1baa-11eb-9c6f-96e8d8f7684a.jpeg" width="400"/>
 
@@ -43,7 +43,7 @@ A curated list of awesome [Scriptable](https://scriptable.app/) scripts and widg
 
   <img src="https://user-images.githubusercontent.com/17153908/95031000-bdd3e980-0689-11eb-83ce-49e2adbe1ca1.jpg" width="400"/>
 
-- [daysUntilBirthday](https://github.com/lwitzani/daysUntilBirthday) - List of contacts upcoming birthdays.
+- [daysUntilBirthday](https://github.com/lwitzani/daysUntilBirthday) - List of upcoming birthdays from contacts.
 
   <img src="https://raw.githubusercontent.com/lwitzani/daysUntilBirthday/main/fullySetupWidget.PNG" width="400"/>
 
@@ -92,6 +92,10 @@ A curated list of awesome [Scriptable](https://scriptable.app/) scripts and widg
 
 - [fitx-widget.js](https://gist.github.com/DanielStefanK/487175b6f65ede401e37ee4848970176) - Workload of a FitX gym.
 - [rsg_group_mcfit_high5_johnreed_capacity_widget.js](https://gist.github.com/masselmello/6d4f4c533b98b2550ee23a7a5e6c6cff) - Capacity of nearst McFit gym.
+- [skiable](https://github.com/p0fi/skiable-for-scriptable) - Skiing information like snow height or number of open lifts. 
+
+  <img src="https://raw.githubusercontent.com/p0fi/skiable-for-scriptable/main/cover.png" width="400"/>
+
 - [Upcoming Matches](https://gist.github.com/ilyichvismara/7895bb479e14a999f3cfd2c391f10597) - Upcoming matches of a football team.
 
 ### Tools
@@ -100,9 +104,9 @@ A curated list of awesome [Scriptable](https://scriptable.app/) scripts and widg
 
   <img src="https://user-images.githubusercontent.com/9810829/96903902-b3418e80-1496-11eb-954c-1e2d9b8f9c69.JPG" width="400"/>
 
-- [exchangeRate.js](https://github.com/Juniorchen2012/scriptable/blob/master/exchangeRate.js) - Currecy exchange rates.
+- [exchangeRate.js](https://github.com/Juniorchen2012/scriptable/blob/master/exchangeRate.js) - Currency exchange rates.
 
-- [gitlab-stats-for-scribtable](https://github.com/p0fi/gitlab-stats-for-scribtable) - Statistics from GitLab.
+- [gitlab-stats-for-scribtable](https://github.com/p0fi/gitlab-stats-for-scribtable) - Statistics from GitLab like number of assigned merge requests.
 
   <img src="https://github.com/p0fi/gitlab-stats-for-scribtable/raw/main/cover.png" width="800"/>
 
@@ -121,7 +125,7 @@ A curated list of awesome [Scriptable](https://scriptable.app/) scripts and widg
 
 - [server-status-widget.js](https://gist.github.com/dioncodes/cd4554d8593814a94925735cbcdea0c8) - Reachability of web servers.
 
-- [tagesschau-widget](https://github.com/trbnhck/scriptable-scripts/tree/main/tagesschau-widget) - Latest article from German news site.
+- [tagesschau-widget](https://github.com/trbnhck/scriptable-scripts/tree/main/tagesschau-widget) - Latest article from the German news site _Tagesschau_.
 
   <img src="https://raw.githubusercontent.com/trbnhck/scriptable-scripts/main/tagesschau-widget/assets/F5D86069-CAD8-44D9-ACC4-54E2B82214A9.jpeg" width="400"/>
 
