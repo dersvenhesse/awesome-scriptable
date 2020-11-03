@@ -129,6 +129,6 @@ A curated list of awesome [Scriptable](https://scriptable.app/) scripts and widg
 
 ## Download-Helper
 
-- [scriptdu.de](scriptdu.de) ([Repository](https://github.com/kevinkub/scriptdu.de/)) - Downloader and updater for scripts.
+- [scriptdu.de](https://scriptdu.de) ([Repository](https://github.com/kevinkub/scriptdu.de/)) - Downloader and updater for scripts.
 
 - [Widget Hub](https://widget-hub.app/) - Collection for downlading scripts.
