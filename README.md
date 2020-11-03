@@ -17,6 +17,8 @@ A curated list of awesome [Scriptable](https://scriptable.app/) scripts and widg
   - [Sports](#sports)
   - [Tools](#tools)
   
+- [Download-Helper](#download-helper)
+  
 ## Scripts
 
 ### Tools
@@ -124,3 +126,9 @@ A curated list of awesome [Scriptable](https://scriptable.app/) scripts and widg
   <img src="https://raw.githubusercontent.com/trbnhck/scriptable-scripts/main/tagesschau-widget/assets/F5D86069-CAD8-44D9-ACC4-54E2B82214A9.jpeg" width="400"/>
 
 - [xkcd.js](https://github.com/supermamon/scriptable-scripts/blob/master/xkcd-widget/xkcd.js) - Current or random xkcd comic.
+
+## Download-Helper
+
+- [scriptdu.de](scriptdu.de) ([Repository](https://github.com/kevinkub/scriptdu.de/)) - Downloader and updater for scripts.
+
+- [Widget Hub](https://widget-hub.app/) - Collection for downlading scripts.
