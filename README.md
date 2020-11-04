@@ -129,6 +129,10 @@ A curated list of awesome [Scriptable](https://scriptable.app/) scripts and widg
 
   <img src="https://raw.githubusercontent.com/trbnhck/scriptable-scripts/main/tagesschau-widget/assets/F5D86069-CAD8-44D9-ACC4-54E2B82214A9.jpeg" width="400"/>
 
+- [woocommerce-sales](https://gist.github.com/olikdesign/4c9c5549686c81e728b065286eb0e750) - Sales statistics from Woocommerce shop.
+
+  <img src="https://user-images.githubusercontent.com/56842969/97914623-76a44b80-1d50-11eb-9273-b35b4b76a3f0.jpeg" width="400"/>
+
 - [xkcd.js](https://github.com/supermamon/scriptable-scripts/blob/master/xkcd-widget/xkcd.js) - Current or random xkcd comic.
 
 ## Download-Helper
