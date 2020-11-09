@@ -54,6 +54,7 @@ A curated list of awesome [Scriptable](https://scriptable.app/) scripts and widg
 ### Health
 
 - [incidence.js](https://gist.github.com/kevinkub/46caebfebc7e26be63403a7f0587f664) - Covid-19 incidence data for Germany.
+- [incidence_at.js](https://gist.github.com/Baumchen/b8b9aaf5ba0aebef173a4f956a3b4290) - Covid-19 incidence data for Austria.
 - [Coronavirus.js](https://gist.github.com/planecore/e7b4c1e5db2dd28b1a023860e831355e) -  Covid-19 cases of a selected contry.
 
 ### Mobile
