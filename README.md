@@ -32,7 +32,11 @@ A curated list of awesome [Scriptable](https://scriptable.app/) scripts and widg
 - [TeslaData-Widget](https://github.com/DrieStone/TeslaData-Widget) - Informations about your Tesla like charging status and doors locked/unlocked.
   
   <img src="https://github.com/DrieStone/TeslaData-Widget/raw/main/documentation/screen_001.png" width="400"/>
+  
+- [tankstellenpreise.js](https://github.com/Necriso/ScriptableWidgets/blob/main/tankstellenpreise.js) - Fuel prices from a nearby gas station.
 
+  <img src="https://github.com/Necriso/ScriptableWidgets/raw/main/tankstellenpreise.png" width="400"/>
+  
 - [ZOE-Widget.js](https://gist.github.com/mountbatt/772e4512089802a2aa2622058dd1ded7) - Informations about your Renault Zoe like charging or position.
 
   <img src="https://user-images.githubusercontent.com/2411246/97786189-41f68f80-1baa-11eb-9c6f-96e8d8f7684a.jpeg" width="400"/>
@@ -128,7 +132,7 @@ A curated list of awesome [Scriptable](https://scriptable.app/) scripts and widg
 
 - [tagesschau-widget](https://github.com/trbnhck/scriptable-scripts/tree/main/tagesschau-widget) - Latest article from the German news site _Tagesschau_.
 
-  <img src="https://raw.githubusercontent.com/trbnhck/scriptable-scripts/main/tagesschau-widget/assets/F5D86069-CAD8-44D9-ACC4-54E2B82214A9.jpeg" width="400"/>
+  <img src="https://camo.githubusercontent.com/a90be978f61e852bddd16233548c44211d3f2de1a2ac5285c352e0c0bfe0d4f9/68747470733a2f2f696d6775722e636f6d2f696f65576869792e6a7067" width="400"/>
 
 - [woocommerce-sales](https://gist.github.com/olikdesign/4c9c5549686c81e728b065286eb0e750) - Sales statistics from Woocommerce shop.
 
