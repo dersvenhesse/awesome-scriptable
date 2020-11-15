@@ -16,7 +16,7 @@
 - [Shopping](#shopping)
 - [Sports](#sports)
 - [Tools](#tools)
-- [Widget-Download-Helper](#download-helper)
+- [Widget-Download-Helper](#widget-download-helper)
   
 ## Cars
 
