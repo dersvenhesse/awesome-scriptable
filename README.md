@@ -135,10 +135,11 @@
 
 - [xkcd.js](https://github.com/supermamon/scriptable-scripts/blob/master/xkcd-widget/xkcd.js) - Current or random xkcd comic.
 
-## Download-Helper
+## Widget-Download-Helper
 
-- [scriptdu.de](https://scriptdu.de) ([Repository](https://github.com/kevinkub/scriptdu.de/)) - Downloader and updater for scripts.
+- [Import-Script.js](https://github.com/supermamon/scriptable-scripts/blob/master/Import-Script.js) - Scrirpt to download code (i.e. from Pastebin, GitHub) into Scriptable.
+
+- [scriptdu.de](https://scriptdu.de) - Downloader and updater for scripts.
 
 - [Widget Hub](https://widget-hub.app/) - Collection for downlading scripts.
 
-- [Import-Script.js](https://github.com/supermamon/scriptable-scripts/blob/master/Import-Script.js) - Scrirpt to download code (i.e. from Pastebin, GitHub) into Scriptable.
