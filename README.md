@@ -1,35 +1,24 @@
-# Awesome Scriptable 
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome Scriptable [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> Carefully curated list of awesome Scriptable scripts and widgets.
+> Carefully curated list of awesome Scriptable widgets.
 
 [Scriptable](https://scriptable.app/) is an iOS app to to create automations in JavaScript language. 
 
 ## Contents
 
-- [Scripts](#scripts)
-
-- [Widgets](#widgets)
-  - [Cars](#cars)
-  - [Calendar](#calendar)
-  - [Health](#health)
-  - [Mobile](#mobile)
-  - [Music](#music)
-  - [Social](#social)
-  - [Sports](#sports)
-  - [Tools](#tools)
+- [Cars](#cars)
+- [Calendar](#calendar)
+- [Health](#health)
+- [Mobile](#mobile)
+- [Music](#music)
+- [Reading](#reading)
+- [Social](#social)
+- [Shopping](#shopping)
+- [Sports](#sports)
+- [Tools](#tools)
+- [Widget-Download-Helper](#download-helper)
   
-- [Download-Helper](#download-helper)
-  
-## Scripts
-
-### Tools
-
-- [Import-Script.js](https://github.com/supermamon/scriptable-scripts/blob/master/Import-Script.js) - Download code (i.e. from Pastebin, GitHub) into Scriptable.
-
-## Widgets
-
-### Cars
+## Cars
 
 - [TeslaData-Widget](https://github.com/DrieStone/TeslaData-Widget) - Informations about your Tesla like charging status and doors locked/unlocked.
   
@@ -43,7 +32,7 @@
 
   <img src="https://user-images.githubusercontent.com/2411246/97786189-41f68f80-1baa-11eb-9c6f-96e8d8f7684a.jpeg" width="400"/>
 
-### Calendar
+## Calendar
 
 - [countdown.js](https://gist.github.com/flasozzi/ab6222ea15de5113555c32c855e9e326) - Simple countdown to dates.
 
@@ -57,13 +46,13 @@
 
   <img src="https://github.com/rudotriton/scriptable-calendar-widget/raw/main/assets/widget.jpg" width="400"/>
 
-### Health
+## Health
 
 - [incidence.js](https://gist.github.com/kevinkub/46caebfebc7e26be63403a7f0587f664) - Covid-19 incidence data for Germany.
 - [incidence_at.js](https://gist.github.com/Baumchen/b8b9aaf5ba0aebef173a4f956a3b4290) - Covid-19 incidence data for Austria.
 - [Coronavirus.js](https://gist.github.com/planecore/e7b4c1e5db2dd28b1a023860e831355e) -  Covid-19 cases of a selected contry.
 
-### Mobile
+## Mobile
 
 - [telekom.js](https://gist.github.com/Sillium/f904fb89444bc8dde12cfc07b8fa8728) - Data consumption based on tariff for Telekom.de.
 
@@ -73,7 +62,7 @@
 
   <img src="https://raw.githubusercontent.com/ThisIsBenny/iOS-Widgets/main/VodafoneDE/previewLight.jpeg" width="200"/>
 
-### Music
+## Music
 
 - [sonos-nowPlaying.js](https://gist.github.com/marco79cgn/98616fcbb2dfdbd752b33a452208bcc8) - Now playing on Sonos.
 
@@ -82,8 +71,18 @@
 - [spotify-now-playing.js](https://gist.github.com/marco79cgn/79a6a265d978dc22cc2a12058b24e02b) - Now playing on Spotify.
 
   <img src="https://user-images.githubusercontent.com/9810829/94380118-76eb6e80-0134-11eb-9d71-c6d587b8b224.jpeg" width="400"/>
+  
+## Reading
 
-### Social
+- [scriptable-WordPress.js](https://gist.github.com/Saudumm/eb9b04e556a874b508d1aab21aebb545) - Latest posts from a Wordpress blog.
+
+  <img src="https://user-images.githubusercontent.com/810494/97783785-3ac78580-1b9a-11eb-93f2-265264eb11f8.jpg" width="400"/>
+
+- [tagesschau-widget](https://github.com/trbnhck/scriptable-scripts/tree/main/tagesschau-widget) - Latest article from the German news site _Tagesschau_.
+
+  <img src="https://camo.githubusercontent.com/a90be978f61e852bddd16233548c44211d3f2de1a2ac5285c352e0c0bfe0d4f9/68747470733a2f2f696d6775722e636f6d2f696f65576869792e6a7067" width="400"/>
+
+## Social
 
 - [conversable-for-scriptable](https://github.com/andyngo/conversable-for-scriptable) - Contact icons to start conversations with.
 
@@ -94,8 +93,16 @@
 - [termiWidget.js](https://gist.github.com/spencerwooo/7955aefc4ffa5bc8ae7c83d85d05e7a4) - Terminal-like output of subscriber amount.
 
   <img src="https://user-images.githubusercontent.com/32114380/90952313-18780400-e495-11ea-9791-20634a895af6.PNG" width="400"/>
+  
+## Shopping
 
-### Sports
+- [exchangeRate.js](https://github.com/Juniorchen2012/scriptable/blob/master/exchangeRate.js) - Currency exchange rates.
+
+- [dm-toilet-paper.js](https://gist.github.com/marco79cgn/23ce08fd8711ee893a3be12d4543f2d2) - Toilet paper availability in nearby drugstore.
+
+  <img src="https://user-images.githubusercontent.com/9810829/96903902-b3418e80-1496-11eb-954c-1e2d9b8f9c69.JPG" width="400"/>
+
+## Sports
 
 - [fitx-widget.js](https://gist.github.com/DanielStefanK/487175b6f65ede401e37ee4848970176) - Workload of a FitX gym.
 - [rsg_group_mcfit_high5_johnreed_capacity_widget.js](https://gist.github.com/masselmello/6d4f4c533b98b2550ee23a7a5e6c6cff) - Capacity of nearst McFit gym.
@@ -105,13 +112,7 @@
 
 - [Upcoming Matches](https://gist.github.com/ilyichvismara/7895bb479e14a999f3cfd2c391f10597) - Upcoming matches of a football team.
 
-### Tools
-
-- [dm-toilet-paper.js](https://gist.github.com/marco79cgn/23ce08fd8711ee893a3be12d4543f2d2) - Toilet paper availability in nearby drugstore.
-
-  <img src="https://user-images.githubusercontent.com/9810829/96903902-b3418e80-1496-11eb-954c-1e2d9b8f9c69.JPG" width="400"/>
-
-- [exchangeRate.js](https://github.com/Juniorchen2012/scriptable/blob/master/exchangeRate.js) - Currency exchange rates.
+## Tools
 
 - [gitlab-stats-for-scribtable](https://github.com/p0fi/gitlab-stats-for-scribtable) - Statistics from GitLab like number of assigned merge requests.
 
@@ -126,15 +127,7 @@
 
   <img src="https://raw.githubusercontent.com/Robby3St/Scriptables-WindowWidget/main/preview.jpg" width="400"/>
   
-- [scriptable-WordPress.js](https://gist.github.com/Saudumm/eb9b04e556a874b508d1aab21aebb545) - Latest posts from a Wordpress blog.
-
-  <img src="https://user-images.githubusercontent.com/810494/97783785-3ac78580-1b9a-11eb-93f2-265264eb11f8.jpg" width="400"/>
-
 - [server-status-widget.js](https://gist.github.com/dioncodes/cd4554d8593814a94925735cbcdea0c8) - Reachability of web servers.
-
-- [tagesschau-widget](https://github.com/trbnhck/scriptable-scripts/tree/main/tagesschau-widget) - Latest article from the German news site _Tagesschau_.
-
-  <img src="https://camo.githubusercontent.com/a90be978f61e852bddd16233548c44211d3f2de1a2ac5285c352e0c0bfe0d4f9/68747470733a2f2f696d6775722e636f6d2f696f65576869792e6a7067" width="400"/>
 
 - [woocommerce-sales](https://gist.github.com/olikdesign/4c9c5549686c81e728b065286eb0e750) - Sales statistics from Woocommerce shop.
 
@@ -147,3 +140,5 @@
 - [scriptdu.de](https://scriptdu.de) ([Repository](https://github.com/kevinkub/scriptdu.de/)) - Downloader and updater for scripts.
 
 - [Widget Hub](https://widget-hub.app/) - Collection for downlading scripts.
+
+- [Import-Script.js](https://github.com/supermamon/scriptable-scripts/blob/master/Import-Script.js) - Scrirpt to download code (i.e. from Pastebin, GitHub) into Scriptable.
