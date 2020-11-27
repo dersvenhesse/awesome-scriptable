@@ -20,15 +20,19 @@
   
 ## Cars
 
-- [TeslaData-Widget](https://github.com/DrieStone/TeslaData-Widget) - Informations about your Tesla like charging status and doors locked/unlocked.
-  
-  <img src="https://github.com/DrieStone/TeslaData-Widget/raw/main/documentation/screen_001.png" width="400"/>
-  
+- [FordPassWidget](https://github.com/dschablowsky/FordPassWidget) - Informations about your Ford like location or mileage.
+
+  <img src="https://github.com/dschablowsky/FordPassWidget/raw/master/fp-widget.jpg" width="400"/>
+
 - [tankstellenpreise.js](https://github.com/Necriso/ScriptableWidgets/blob/main/tankstellenpreise.js) - Fuel prices from a nearby gas station.
 
-  <img src="https://github.com/Necriso/ScriptableWidgets/raw/main/tankstellenpreise.png" width="400"/>
+  <img src="https://raw.githubusercontent.com/Necriso/ScriptableWidgets/main/images/tankstellenpreise.png" width="200"/>
+
+- [TeslaData-Widget](https://github.com/DrieStone/TeslaData-Widget) - Informations about your Tesla like charging status and doors locked/unlocked.
   
-- [ZOE-Widget.js](https://gist.github.com/mountbatt/772e4512089802a2aa2622058dd1ded7) - Informations about your Renault Zoe like charging or position.
+  <img src="https://github.com/DrieStone/TeslaData-Widget/raw/main/documentation/screen_001.png" width="400"/>  
+  
+- [ZOE-Widget.js](https://gist.github.com/mountbatt/772e4512089802a2aa2622058dd1ded7) - Informations about your Renault Zoe like charging or location.
 
   <img src="https://user-images.githubusercontent.com/2411246/97786189-41f68f80-1baa-11eb-9c6f-96e8d8f7684a.jpeg" width="400"/>
 
@@ -75,6 +79,10 @@
 ## Reading
 
 - [scriptable-WordPress.js](https://gist.github.com/Saudumm/eb9b04e556a874b508d1aab21aebb545) - Latest posts from a Wordpress blog.
+
+  <img src="https://user-images.githubusercontent.com/810494/97783785-3ac78580-1b9a-11eb-93f2-265264eb11f8.jpg" width="400"/>
+
+- [sonntagsfrage](https://github.com/henningtillmann/sonntagsfrage) - Latest German political poll results.
 
   <img src="https://user-images.githubusercontent.com/810494/97783785-3ac78580-1b9a-11eb-93f2-265264eb11f8.jpg" width="400"/>
 
