@@ -48,7 +48,7 @@
 
 - [scriptable-calendar-widget](https://github.com/rudotriton/scriptable-calendar-widget) - Customizable calendar.
 
-  <img src="https://github.com/rudotriton/scriptable-calendar-widget/raw/main/assets/widget.jpg" width="400"/>
+  <img src="https://raw.githubusercontent.com/rudotriton/scriptable-calendar-widget/main/assets/widget.png" width="400"/>
 
 ## Health
 
@@ -78,13 +78,13 @@
   
 ## Reading
 
-- [scriptable-WordPress.js](https://gist.github.com/Saudumm/eb9b04e556a874b508d1aab21aebb545) - Latest posts from a Wordpress blog.
+- [scriptable-news-Widget.js](https://github.com/Saudumm/scriptable-News-Widget) - Latest posts from a feed or an Wordpress blog.
 
-  <img src="https://user-images.githubusercontent.com/810494/97783785-3ac78580-1b9a-11eb-93f2-265264eb11f8.jpg" width="400"/>
+  <img src="https://raw.githubusercontent.com/Saudumm/scriptable-News-Widget/main/images/widgets.jpg" width="800"/>
 
 - [sonntagsfrage](https://github.com/henningtillmann/sonntagsfrage) - Latest German political poll results.
 
-  <img src="https://user-images.githubusercontent.com/810494/97783785-3ac78580-1b9a-11eb-93f2-265264eb11f8.jpg" width="400"/>
+  <img src="https://raw.githubusercontent.com/henningtillmann/sonntagsfrage/main/screenshot-1.png" width="400"/>
 
 - [tagesschau-widget](https://github.com/trbnhck/scriptable-scripts/tree/main/tagesschau-widget) - Latest article from the German news site _Tagesschau_.
 
