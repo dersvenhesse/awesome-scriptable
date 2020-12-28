@@ -119,6 +119,7 @@
   <img src="https://raw.githubusercontent.com/p0fi/skiable-for-scriptable/main/cover.png" width="400"/>
 
 - [Upcoming Matches](https://gist.github.com/ilyichvismara/7895bb479e14a999f3cfd2c391f10597) - Upcoming matches of a football team.
+- [CFBWidget](https://github.com/jaydainn/CFBWidget) - Latest scores for your favorite NCAA college football team. 
 
 ## Tools
 
