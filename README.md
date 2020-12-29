@@ -52,9 +52,10 @@
 
 ## Health
 
+- [Coronavirus.js](https://gist.github.com/planecore/e7b4c1e5db2dd28b1a023860e831355e) -  Covid-19 cases of a selected contry.
 - [incidence.js](https://gist.github.com/kevinkub/46caebfebc7e26be63403a7f0587f664) - Covid-19 incidence data for Germany.
 - [incidence_at.js](https://gist.github.com/Baumchen/b8b9aaf5ba0aebef173a4f956a3b4290) - Covid-19 incidence data for Austria.
-- [Coronavirus.js](https://gist.github.com/planecore/e7b4c1e5db2dd28b1a023860e831355e) -  Covid-19 cases of a selected contry.
+- [vaccination-stats.js](https://gist.github.com/marco79cgn/b5f291d6242a2c530e56c748f1ae7f2c) - Covid-19 vaccination statistics for Germany.
 
 ## Mobile
 
@@ -112,6 +113,7 @@
 
 ## Sports
 
+- [CFBWidget](https://github.com/jaydainn/CFBWidget) - Latest scores of a NCAA college football team. 
 - [fitx-widget.js](https://gist.github.com/DanielStefanK/487175b6f65ede401e37ee4848970176) - Workload of a FitX gym.
 - [rsg_group_mcfit_high5_johnreed_capacity_widget.js](https://gist.github.com/masselmello/6d4f4c533b98b2550ee23a7a5e6c6cff) - Capacity of nearst McFit gym.
 - [skiable](https://github.com/p0fi/skiable-for-scriptable) - Skiing information like snow height or number of open lifts. 
@@ -119,7 +121,6 @@
   <img src="https://raw.githubusercontent.com/p0fi/skiable-for-scriptable/main/cover.png" width="400"/>
 
 - [Upcoming Matches](https://gist.github.com/ilyichvismara/7895bb479e14a999f3cfd2c391f10597) - Upcoming matches of a football team.
-- [CFBWidget](https://github.com/jaydainn/CFBWidget) - Latest scores for your favorite NCAA college football team. 
 
 ## Tools
 
