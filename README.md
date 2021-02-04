@@ -41,6 +41,8 @@
 - [countdown.js](https://gist.github.com/flasozzi/ab6222ea15de5113555c32c855e9e326) - Simple countdown to dates.
 
   <img src="https://user-images.githubusercontent.com/17153908/95031000-bdd3e980-0689-11eb-83ce-49e2adbe1ca1.jpg" width="400"/>
+  
+- [HomeDateGreeting.js](https://gist.github.com/cassianomon/efffbe09d20013986cd4ffc0f362a3e2) - Date and time greeting with background vom Unsplash. 
 
 - [daysUntilBirthday](https://github.com/lwitzani/daysUntilBirthday) - List of upcoming birthdays from contacts.
 
@@ -53,8 +55,11 @@
 ## Health
 
 - [Coronavirus.js](https://gist.github.com/planecore/e7b4c1e5db2dd28b1a023860e831355e) -  Covid-19 cases of a selected contry.
+
 - [incidence.js](https://gist.github.com/kevinkub/46caebfebc7e26be63403a7f0587f664) - Covid-19 incidence data for Germany.
+
 - [incidence_at.js](https://gist.github.com/Baumchen/b8b9aaf5ba0aebef173a4f956a3b4290) - Covid-19 incidence data for Austria.
+
 - [vaccination-stats.js](https://gist.github.com/marco79cgn/b5f291d6242a2c530e56c748f1ae7f2c) - Covid-19 vaccination statistics for Germany.
 
 ## Mobile
@@ -114,8 +119,11 @@
 ## Sports
 
 - [CFBWidget](https://github.com/jaydainn/CFBWidget) - Latest scores of a NCAA college football team. 
+
 - [fitx-widget.js](https://gist.github.com/DanielStefanK/487175b6f65ede401e37ee4848970176) - Workload of a FitX gym.
+
 - [rsg_group_mcfit_high5_johnreed_capacity_widget.js](https://gist.github.com/masselmello/6d4f4c533b98b2550ee23a7a5e6c6cff) - Capacity of nearst McFit gym.
+
 - [skiable](https://github.com/p0fi/skiable-for-scriptable) - Skiing information like snow height or number of open lifts. 
 
   <img src="https://raw.githubusercontent.com/p0fi/skiable-for-scriptable/main/cover.png" width="400"/>
@@ -128,7 +136,12 @@
 
   <img src="https://github.com/p0fi/gitlab-stats-for-scribtable/raw/main/cover.png" width="800"/>
 
+- [MinecraftServerWidget.js](https://github.com/au5ton/scriptable.app/tree/main/MinecraftServerWidget) - Informations about a Minecraft server.
+
 - [mz_invisible_widget.js](https://gist.github.com/mzeryck/3a97ccd1e059b3afa3c6666d27a496c9) - Creation of "invisible" backgrounds.
+
+- [PlexStreamsWidget.js](https://github.com/au5ton/scriptable.app/tree/main/PlexStreamsWidget) - Informations about a Plesk server.
+
 - [PurpleAir-AQI-Scriptable-Widget](https://github.com/jasonsnell/PurpleAir-AQI-Scriptable-Widget) - Air Quality from PurpleAir sensor.
 
   <img src="https://camo.githubusercontent.com/1fdb80ce7198c16a4fafd1586a45307bbf255962/68747470733a2f2f736978636f6c6f72732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31302f7769646765742d6c61746573742e6a706567" width="400"/>
@@ -136,7 +149,7 @@
 - [Scriptables-WindowWidget](https://github.com/Robby3St/Scriptables-WindowWidget) - Setting reminders for room ventilation.
 
   <img src="https://raw.githubusercontent.com/Robby3St/Scriptables-WindowWidget/main/preview.jpg" width="400"/>
-  
+
 - [server-status-widget.js](https://gist.github.com/dioncodes/cd4554d8593814a94925735cbcdea0c8) - Reachability of web servers.
 
 - [woocommerce-sales](https://gist.github.com/olikdesign/4c9c5549686c81e728b065286eb0e750) - Sales statistics from Woocommerce shop.
@@ -152,4 +165,3 @@
 - [scriptdu.de](https://scriptdu.de) - Downloader and updater for scripts.
 
 - [Widget Hub](https://widget-hub.app/) - Collection for downlading scripts.
-
