@@ -8,6 +8,7 @@
 
 - [Cars](#cars)
 - [Calendar](#calendar)
+- [Food](#food)
 - [Health](#health)
 - [Mobile](#mobile)
 - [Music](#music)
@@ -51,6 +52,12 @@
 - [scriptable-calendar-widget](https://github.com/rudotriton/scriptable-calendar-widget) - Customizable calendar.
 
   <img src="https://raw.githubusercontent.com/rudotriton/scriptable-calendar-widget/main/assets/widget.png" width="400"/>
+
+## Food
+
+- [Food Recipe Widget](https://github.com/shfrmn/scriptable-recipe) - Random food recipe widget that opens cooking video on YouTube when you tap on it
+
+  <img src="https://user-images.githubusercontent.com/12446468/108283292-f11b9e80-717a-11eb-9a79-8848e5803166.PNG" width="400"/>
 
 ## Health
 
