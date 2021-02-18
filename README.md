@@ -55,7 +55,7 @@
 
 ## Food
 
-- [Food Recipe Widget](https://github.com/shfrmn/scriptable-recipe) - Random food recipe widget that opens cooking video on YouTube when you tap on it
+- [FoodRecipeWidget](https://github.com/shfrmn/scriptable-recipe) - Random food recipe widget that opens cooking video on YouTube when you tap on it.
 
   <img src="https://user-images.githubusercontent.com/12446468/108283292-f11b9e80-717a-11eb-9a79-8848e5803166.PNG" width="400"/>
 
