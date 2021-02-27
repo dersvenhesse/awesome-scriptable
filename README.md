@@ -17,8 +17,10 @@
 - [Shopping](#shopping)
 - [Sports](#sports)
 - [Tools](#tools)
-- [Widget-Download-Helper](#widget-download-helper)
-  
+- [Related](#related)
+  - [Download helper](#download-helper)
+  - [Additional resources](#additional-resources)
+
 ## Cars
 
 - [FordPassWidget](https://github.com/dschablowsky/FordPassWidget) - Informations about your Ford like location or mileage.
@@ -165,10 +167,15 @@
 
 - [xkcd.js](https://github.com/supermamon/scriptable-scripts/blob/master/xkcd-widget/xkcd.js) - Current or random xkcd comic.
 
-## Widget-Download-Helper
+## Related
+
+### Download helper
 
 - [Import-Script.js](https://github.com/supermamon/scriptable-scripts/blob/master/Import-Script.js) - Scrirpt to download code (i.e. from Pastebin, GitHub) into Scriptable.
 
 - [scriptdu.de](https://scriptdu.de) - Downloader and updater for scripts.
 
-- [Widget Hub](https://widget-hub.app/) - Collection for downlading scripts.
+### Additional resources
+
+- [Scriptable on Reddit](https://www.reddit.com/r/Scriptable/) - Widgets and help for creating them.
+- [Scriptable at GitHub](https://github.com/topics/scriptable) - Repositories with scripts and widgets.
