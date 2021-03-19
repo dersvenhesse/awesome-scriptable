@@ -8,6 +8,7 @@
 
 - [Cars](#cars)
 - [Calendar](#calendar)
+- [Finance](#finance)
 - [Food](#food)
 - [Health](#health)
 - [Mobile](#mobile)
@@ -53,7 +54,13 @@
 
 - [scriptable-calendar-widget](https://github.com/rudotriton/scriptable-calendar-widget) - Customizable calendar.
 
-  <img src="https://raw.githubusercontent.com/rudotriton/scriptable-calendar-widget/main/assets/widget.png" width="400"/>
+  <img src="https://raw.githubusercontent.com/rudotriton/scriptable-calendar-widget/main/assets/scriptable-calendar-widget.jpg" width="400"/>
+
+## Finance
+
+- [CryptoDepotWidget](https://github.com/Martlgap/CryptoDepotWidget) - A Widget showing your personal crypto balances.
+
+  <img src="https://raw.githubusercontent.com/Martlgap/CryptoDepotWidget/main/widget_preview.jpg" width="200"/>
 
 ## Food
 
