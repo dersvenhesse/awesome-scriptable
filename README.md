@@ -1,5 +1,7 @@
 # Awesome Scriptable [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
+[<img src="https://scriptable.app/assets/appicon.png" align="right" width="100" style="clip-path">](https://scriptable.app/)
+
 > Carefully curated list of awesome Scriptable widgets.
 
 [Scriptable](https://scriptable.app/) is an iOS app to to create automations in JavaScript language. 
