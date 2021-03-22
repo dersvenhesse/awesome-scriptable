@@ -1,6 +1,6 @@
 # Awesome Scriptable [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-[<img src="https://scriptable.app/assets/appicon.png" align="right" width="100" style="clip-path">](https://scriptable.app/)
+<img src="https://scriptable.app/assets/appicon.png" align="right" width="100" style="clip-path">
 
 > Carefully curated list of awesome Scriptable widgets.
 
