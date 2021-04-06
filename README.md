@@ -58,6 +58,10 @@
 
   <img src="https://raw.githubusercontent.com/rudotriton/scriptable-calendar-widget/main/assets/scriptable-calendar-widget.jpg" width="400"/>
 
+- [WordClockWidget](https://github.com/yaylinda/scriptable#WordClockWidget) - Clock showing the current time in writing.
+
+  <img src="https://raw.githubusercontent.com/yaylinda/scriptable/main/images/WordClockWidget.png" width="200"/>
+
 ## Finance
 
 - [CryptoDepotWidget](https://github.com/Martlgap/CryptoDepotWidget) - A Widget showing your personal crypto balances.
