@@ -12,6 +12,7 @@
 - [Calendar](#calendar)
 - [Finance](#finance)
 - [Food](#food)
+- [Gaming](#gaming)
 - [Health](#health)
 - [Mobile](#mobile)
 - [Music](#music)
@@ -73,6 +74,12 @@
 - [FoodRecipeWidget](https://github.com/shfrmn/scriptable-recipe) - Random food recipe widget that opens cooking video on YouTube when you tap on it.
 
   <img src="https://user-images.githubusercontent.com/12446468/108283292-f11b9e80-717a-11eb-9a79-8848e5803166.PNG" width="400"/>
+
+## Gaming
+
+- [MinecraftServerWidget.js](https://github.com/au5ton/scriptable.app/tree/main/MinecraftServerWidget) - Informations about a Minecraft server.
+
+- [steam-wishlist.js](https://gist.github.com/brenoprata10/10d6bd1c8445a1181b899dd47c715577) - Shows items from a users Steam wishlist.
 
 ## Health
 
@@ -157,8 +164,6 @@
 - [gitlab-stats-for-scribtable](https://github.com/p0fi/gitlab-stats-for-scribtable) - Statistics from GitLab like number of assigned merge requests.
 
   <img src="https://github.com/p0fi/gitlab-stats-for-scribtable/raw/main/cover.png" width="800"/>
-
-- [MinecraftServerWidget.js](https://github.com/au5ton/scriptable.app/tree/main/MinecraftServerWidget) - Informations about a Minecraft server.
 
 - [mz_invisible_widget.js](https://gist.github.com/mzeryck/3a97ccd1e059b3afa3c6666d27a496c9) - Creation of "invisible" backgrounds.
 
