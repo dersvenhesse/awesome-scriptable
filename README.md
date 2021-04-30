@@ -67,7 +67,9 @@
 
 - [CryptoDepotWidget](https://github.com/Martlgap/CryptoDepotWidget) - A Widget showing your personal crypto balances.
 
-  <img src="https://raw.githubusercontent.com/Martlgap/CryptoDepotWidget/main/widget_preview.jpg" width="200"/>
+  <img src="https://raw.githubusercontent.com/Martlgap/CryptoDepotWidget/main/preview_small.png" height="100"/>
+  <img src="https://raw.githubusercontent.com/Martlgap/CryptoDepotWidget/main/preview_medium.png" height="100"/>
+  <img src="https://raw.githubusercontent.com/Martlgap/CryptoDepotWidget/main/preview_large.png" height="200"/>
 
 ## Food
 
