@@ -115,7 +115,7 @@
   
 ## Reading
 
-- [scriptable-news-Widget.js](https://github.com/Saudumm/scriptable-News-Widget) - Latest posts from a feed or a Wordpress blog.
+- [scriptable-news-Widget.js](https://github.com/Saudumm/scriptable-News-Widget) - Latest posts from a feed or a WordPress blog.
 
   <img src="https://raw.githubusercontent.com/Saudumm/scriptable-News-Widget/main/images/widgets.jpg" width="800"/>
 
