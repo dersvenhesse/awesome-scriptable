@@ -1,10 +1,10 @@
 # Awesome Scriptable [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-<img src="https://scriptable.app/assets/appicon.png" align="right" width="100" style="clip-path">
+[<img src="https://scriptable.app/assets/appicon.png" align="right" width="100" style="clip-path">](https://scriptable.app/)
 
 > Carefully curated list of awesome Scriptable widgets.
 
-[Scriptable](https://scriptable.app/) is an iOS app to to create automations in JavaScript language. 
+[Scriptable](https://scriptable.app/) is an iOS app to create automations in JavaScript language. 
 
 ## Contents
 
@@ -27,7 +27,7 @@
 
 ## Cars
 
-- [FordPassWidget](https://github.com/dschablowsky/FordPassWidget) - Informations about your Ford like location or mileage.
+- [FordPassWidget](https://github.com/dschablowsky/FordPassWidget) - Information about your Ford like location or mileage.
 
   <img src="https://github.com/dschablowsky/FordPassWidget/raw/master/fp-widget.jpg" width="400"/>
 
@@ -35,11 +35,11 @@
 
   <img src="https://raw.githubusercontent.com/Necriso/ScriptableWidgets/main/images/tankstellenpreise.png" width="200"/>
 
-- [TeslaData-Widget](https://github.com/DrieStone/TeslaData-Widget) - Informations about your Tesla like charging status and doors locked/unlocked.
+- [TeslaData-Widget](https://github.com/DrieStone/TeslaData-Widget) - Information about your Tesla, like charging status and doors locked/unlocked.
   
   <img src="https://github.com/DrieStone/TeslaData-Widget/raw/main/documentation/screen_001.png" width="400"/>  
   
-- [ZOE-Widget.js](https://gist.github.com/mountbatt/772e4512089802a2aa2622058dd1ded7) - Informations about your Renault Zoe like charging or location.
+- [ZOE-Widget.js](https://gist.github.com/mountbatt/772e4512089802a2aa2622058dd1ded7) - Information about your Renault Zoe like charging or location.
 
   <img src="https://user-images.githubusercontent.com/2411246/97786189-41f68f80-1baa-11eb-9c6f-96e8d8f7684a.jpeg" width="400"/>
 
@@ -79,7 +79,7 @@
 
 ## Gaming
 
-- [MinecraftServerWidget.js](https://github.com/au5ton/scriptable.app/tree/main/MinecraftServerWidget) - Informations about a Minecraft server.
+- [MinecraftServerWidget.js](https://github.com/au5ton/scriptable.app/tree/main/MinecraftServerWidget) - Information about a Minecraft server.
 
 - [steam-wishlist.js](https://gist.github.com/brenoprata10/10d6bd1c8445a1181b899dd47c715577) - Shows items from a users Steam wishlist.
 
@@ -115,7 +115,7 @@
   
 ## Reading
 
-- [scriptable-news-Widget.js](https://github.com/Saudumm/scriptable-News-Widget) - Latest posts from a feed or an Wordpress blog.
+- [scriptable-news-Widget.js](https://github.com/Saudumm/scriptable-News-Widget) - Latest posts from a feed or a Wordpress blog.
 
   <img src="https://raw.githubusercontent.com/Saudumm/scriptable-News-Widget/main/images/widgets.jpg" width="800"/>
 
@@ -169,7 +169,7 @@
 
 - [mz_invisible_widget.js](https://gist.github.com/mzeryck/3a97ccd1e059b3afa3c6666d27a496c9) - Creation of "invisible" backgrounds.
 
-- [PlexStreamsWidget.js](https://github.com/au5ton/scriptable.app/tree/main/PlexStreamsWidget) - Informations about a Plesk server.
+- [PlexStreamsWidget.js](https://github.com/au5ton/scriptable.app/tree/main/PlexStreamsWidget) - Information about a Plesk server.
 
 - [PurpleAir-AQI-Scriptable-Widget](https://github.com/jasonsnell/PurpleAir-AQI-Scriptable-Widget) - Air Quality from PurpleAir sensor.
 
@@ -191,7 +191,7 @@
 
 ### Download helper
 
-- [Import-Script.js](https://github.com/supermamon/scriptable-scripts/blob/master/Import-Script.js) - Scrirpt to download code (i.e. from Pastebin, GitHub) into Scriptable.
+- [Import-Script.js](https://github.com/supermamon/scriptable-scripts/blob/master/Import-Script.js) - Script to download code (i.e. from Pastebin, GitHub) into Scriptable.
 
 - [scriptdu.de](https://scriptdu.de) - Downloader and updater for scripts.
 
