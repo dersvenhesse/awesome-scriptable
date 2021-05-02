@@ -1,10 +1,14 @@
 # Awesome Scriptable [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
+<!--lint disable double-link-->
 [<img src="https://scriptable.app/assets/appicon.png" align="right" width="100" style="clip-path">](https://scriptable.app/)
+<!--lint enable double-link-->
 
 > Carefully curated list of awesome Scriptable widgets.
 
+<!--lint disable double-link-->
 [Scriptable](https://scriptable.app/) is an iOS app to create automations in JavaScript language. 
+<!--lint enable double-link-->
 
 ## Contents
 
@@ -24,6 +28,7 @@
 - [Related](#related)
   - [Download helper](#download-helper)
   - [Additional resources](#additional-resources)
+  - [Articles](#articles)
 
 ## Cars
 
@@ -199,3 +204,8 @@
 
 - [Scriptable on Reddit](https://www.reddit.com/r/Scriptable/) - Widgets and help for creating them.
 - [Scriptable at GitHub](https://github.com/topics/scriptable) - Repositories with scripts and widgets.
+
+### Articles
+
+- [Scriptable Supercharges iOS 14 Widgets Like No Other App](https://gizmodo.com/scriptable-supercharges-ios-14-widgets-like-no-other-ap-1845717081) - Guideline for setting up a widget.
+- [Create your own iOS widget with JavaScript](https://dev.to/matthri/create-your-own-ios-widget-with-javascript-5a11) - Tutorial on how to create own widget.
