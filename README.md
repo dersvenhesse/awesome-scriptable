@@ -7,7 +7,7 @@
 > Carefully curated list of awesome Scriptable widgets.
 
 <!--lint disable double-link-->
-[Scriptable](https://scriptable.app/) is an iOS app to create automations in JavaScript language. 
+[Scriptable](https://scriptable.app/) is an app to automate iOS using JavaScript language. 
 <!--lint enable double-link-->
 
 ## Contents
@@ -70,11 +70,15 @@
 
 ## Finance
 
-- [CryptoDepotWidget](https://github.com/Martlgap/CryptoDepotWidget) - A Widget showing your personal crypto balances.
+- [CryptoDepotWidget](https://github.com/Martlgap/CryptoDepotWidget) - A widget showing your personal crypto balances.
 
   <img src="https://raw.githubusercontent.com/Martlgap/CryptoDepotWidget/main/preview_small.png" height="100"/>
   <img src="https://raw.githubusercontent.com/Martlgap/CryptoDepotWidget/main/preview_medium.png" height="100"/>
   <img src="https://raw.githubusercontent.com/Martlgap/CryptoDepotWidget/main/preview_large.png" height="200"/>
+
+- [btc-usd-course.js](https://github.com/wickenico/btc-usd-course.js) - Shows the current bitcoin course in USD.
+
+  <img src="https://github.com/wickenico/btc-usd-course.js/blob/main/img/bitcoin-usd-course-widget-small.png?raw=true" height="200"/>
 
 ## Food
 
