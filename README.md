@@ -32,7 +32,7 @@
 
 ## Cars
 
-- [FordPassWidget](https://github.com/dschablowsky/FordPassWidget) - Information about your Ford like location or mileage.
+- [FordPassWidget](https://github.com/dschablowsky/FordPassWidget) - Information about your Ford, like location or mileage.
 
   <img src="https://github.com/dschablowsky/FordPassWidget/raw/master/fp-widget.jpg" width="400"/>
 
@@ -54,7 +54,7 @@
 
   <img src="https://user-images.githubusercontent.com/17153908/95031000-bdd3e980-0689-11eb-83ce-49e2adbe1ca1.jpg" width="400"/>
   
-- [HomeDateGreeting.js](https://gist.github.com/cassianomon/efffbe09d20013986cd4ffc0f362a3e2) - Date and time greeting with background vom Unsplash. 
+- [HomeDateGreeting.js](https://gist.github.com/cassianomon/efffbe09d20013986cd4ffc0f362a3e2) - Date and time greeting with background from Unsplash. 
 
 - [daysUntilBirthday](https://github.com/lwitzani/daysUntilBirthday) - List of upcoming birthdays from contacts.
 
@@ -94,7 +94,7 @@
 
 ## Health
 
-- [Coronavirus.js](https://gist.github.com/planecore/e7b4c1e5db2dd28b1a023860e831355e) -  Covid-19 cases of a selected contry.
+- [Coronavirus.js](https://gist.github.com/planecore/e7b4c1e5db2dd28b1a023860e831355e) -  Covid-19 cases of a selected country.
 
 - [incidence.js](https://gist.github.com/kevinkub/46caebfebc7e26be63403a7f0587f664) - Covid-19 incidence data for Germany.
 
@@ -138,7 +138,7 @@
 
 ## Social
 
-- [conversable-for-scriptable](https://github.com/andyngo/conversable-for-scriptable) - Contact icons to start conversations with.
+- [conversable-for-scriptable](https://github.com/andyngo/conversable-for-scriptable) - Contact icons to start conversations.
 
   <img src="https://github.com/andyngo/conversable-for-scriptable/raw/main/conversable.png" width="400"/>
 
@@ -162,7 +162,7 @@
 
 - [fitx-widget.js](https://gist.github.com/DanielStefanK/487175b6f65ede401e37ee4848970176) - Workload of a FitX gym.
 
-- [rsg_group_mcfit_high5_johnreed_capacity_widget.js](https://gist.github.com/masselmello/6d4f4c533b98b2550ee23a7a5e6c6cff) - Capacity of nearest McFit gym.
+- [rsg_group_mcfit_high5_johnreed_capacity_widget.js](https://gist.github.com/masselmello/6d4f4c533b98b2550ee23a7a5e6c6cff) - Capacity of the nearest McFit gym.
 
 - [skiable](https://github.com/p0fi/skiable-for-scriptable) - Skiing information like snow height or the number of open lifts. 
 
