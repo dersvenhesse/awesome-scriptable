@@ -4,7 +4,7 @@
 [<img src="https://scriptable.app/assets/appicon.png" align="right" width="100" style="clip-path">](https://scriptable.app/)
 <!--lint enable double-link-->
 
-> Carefully curated list of awesome Scriptable widgets.
+> A carefully curated list of awesome Scriptable widgets.
 
 <!--lint disable double-link-->
 [Scriptable](https://scriptable.app/) is an app to automate iOS using JavaScript language. 
@@ -70,7 +70,7 @@
 
 ## Finance
 
-- [CryptoDepotWidget](https://github.com/Martlgap/CryptoDepotWidget) - A widget showing your personal crypto balances.
+- [CryptoDepotWidget](https://github.com/Martlgap/CryptoDepotWidget) - A widget showing your crypto balances.
 
   <img src="https://raw.githubusercontent.com/Martlgap/CryptoDepotWidget/main/preview_small.png" height="100"/>
   <img src="https://raw.githubusercontent.com/Martlgap/CryptoDepotWidget/main/preview_medium.png" height="100"/>
@@ -90,7 +90,7 @@
 
 - [MinecraftServerWidget.js](https://github.com/au5ton/scriptable.app/tree/main/MinecraftServerWidget) - Information about a Minecraft server.
 
-- [steam-wishlist.js](https://gist.github.com/brenoprata10/10d6bd1c8445a1181b899dd47c715577) - Shows items from a users Steam wishlist.
+- [steam-wishlist.js](https://gist.github.com/brenoprata10/10d6bd1c8445a1181b899dd47c715577) - Shows items from a user's Steam wishlist.
 
 ## Health
 
@@ -152,7 +152,7 @@
 
 - [exchangeRate.js](https://github.com/Juniorchen2012/scriptable/blob/master/exchangeRate.js) - Currency exchange rates.
 
-- [dm-toilet-paper.js](https://gist.github.com/marco79cgn/23ce08fd8711ee893a3be12d4543f2d2) - Toilet paper availability in nearby drugstore.
+- [dm-toilet-paper.js](https://gist.github.com/marco79cgn/23ce08fd8711ee893a3be12d4543f2d2) - Toilet paper availability in a nearby drugstore.
 
   <img src="https://user-images.githubusercontent.com/9810829/96903902-b3418e80-1496-11eb-954c-1e2d9b8f9c69.JPG" width="400"/>
 
@@ -164,7 +164,7 @@
 
 - [rsg_group_mcfit_high5_johnreed_capacity_widget.js](https://gist.github.com/masselmello/6d4f4c533b98b2550ee23a7a5e6c6cff) - Capacity of nearest McFit gym.
 
-- [skiable](https://github.com/p0fi/skiable-for-scriptable) - Skiing information like snow height or number of open lifts. 
+- [skiable](https://github.com/p0fi/skiable-for-scriptable) - Skiing information like snow height or the number of open lifts. 
 
   <img src="https://raw.githubusercontent.com/p0fi/skiable-for-scriptable/main/cover.png" width="400"/>
 
@@ -172,7 +172,7 @@
 
 ## Tools
 
-- [gitlab-stats-for-scribtable](https://github.com/p0fi/gitlab-stats-for-scribtable) - Statistics from GitLab like number of assigned merge requests.
+- [gitlab-stats-for-scribtable](https://github.com/p0fi/gitlab-stats-for-scribtable) - Statistics from GitLab like the number of assigned merge requests.
 
   <img src="https://github.com/p0fi/gitlab-stats-for-scribtable/raw/main/cover.png" width="800"/>
 
@@ -212,4 +212,4 @@
 ### Articles
 
 - [Scriptable Supercharges iOS 14 Widgets Like No Other App](https://gizmodo.com/scriptable-supercharges-ios-14-widgets-like-no-other-ap-1845717081) - Guideline for setting up a widget.
-- [Create your own iOS widget with JavaScript](https://dev.to/matthri/create-your-own-ios-widget-with-javascript-5a11) - Tutorial on how to create own widget.
+- [Create your own iOS widget with JavaScript](https://dev.to/matthri/create-your-own-ios-widget-with-javascript-5a11) - Tutorial on how to create your own widget.
