@@ -200,7 +200,7 @@
 
 ### Download helper
 
-- [Import-Script.js](https://github.com/supermamon/scriptable-scripts/blob/master/Import-Script.js) - Script to download code (i.e. from Pastebin, GitHub) into Scriptable.
+- [Import-Script.js](https://github.com/supermamon/scriptable-scripts/blob/master/Import-Script.js) - Script to download code (i.e., from Pastebin, GitHub) into Scriptable.
 
 - [scriptdu.de](https://scriptdu.de) - Downloader and updater for scripts.
 
