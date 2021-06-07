@@ -82,7 +82,7 @@
 
 ## Food
 
-- [FoodRecipeWidget](https://github.com/shfrmn/scriptable-recipe) - Random food recipe widget that opens cooking video on YouTube when you tap on it.
+- [FoodRecipeWidget](https://github.com/shfrmn/scriptable-recipe) - Random food recipe widget that opens cooking video on YouTube.
 
   <img src="https://user-images.githubusercontent.com/12446468/108283292-f11b9e80-717a-11eb-9a79-8848e5803166.PNG" width="400"/>
 
@@ -124,15 +124,15 @@
   
 ## Reading
 
-- [scriptable-news-Widget.js](https://github.com/Saudumm/scriptable-News-Widget) - Latest posts from a feed or a WordPress blog.
+- [scriptable-news-Widget.js](https://github.com/Saudumm/scriptable-News-Widget) - The latest posts from a feed or a WordPress blog.
 
   <img src="https://raw.githubusercontent.com/Saudumm/scriptable-News-Widget/main/images/widgets.jpg" width="800"/>
 
-- [sonntagsfrage](https://github.com/henningtillmann/sonntagsfrage) - Latest German political poll results.
+- [sonntagsfrage](https://github.com/henningtillmann/sonntagsfrage) - The latest German political poll results.
 
   <img src="https://raw.githubusercontent.com/henningtillmann/sonntagsfrage/main/screenshot-1.png" width="400"/>
 
-- [tagesschau-widget](https://github.com/trbnhck/scriptable-scripts/tree/main/tagesschau-widget) - Latest article from the German news site _Tagesschau_.
+- [tagesschau-widget](https://github.com/trbnhck/scriptable-scripts/tree/main/tagesschau-widget) - The latest article from the German news site _Tagesschau_.
 
   <img src="https://camo.githubusercontent.com/a90be978f61e852bddd16233548c44211d3f2de1a2ac5285c352e0c0bfe0d4f9/68747470733a2f2f696d6775722e636f6d2f696f65576869792e6a7067" width="400"/>
 
@@ -142,7 +142,7 @@
 
   <img src="https://github.com/andyngo/conversable-for-scriptable/raw/main/conversable.png" width="400"/>
 
-- [ig-latest-post.js](https://github.com/supermamon/scriptable-scripts/blob/master/instagram-widgets/ig-latest-post.js) - Latest post from selected Instagram users.
+- [ig-latest-post.js](https://github.com/supermamon/scriptable-scripts/blob/master/instagram-widgets/ig-latest-post.js) - The latest post from selected Instagram users.
 
 - [termiWidget.js](https://gist.github.com/spencerwooo/7955aefc4ffa5bc8ae7c83d85d05e7a4) - Terminal-like output of subscriber amount.
 
@@ -190,7 +190,7 @@
 
 - [server-status-widget.js](https://gist.github.com/dioncodes/cd4554d8593814a94925735cbcdea0c8) - Reachability of web servers.
 
-- [woocommerce-sales](https://gist.github.com/olikdesign/4c9c5549686c81e728b065286eb0e750) - Sales statistics from Woocommerce shop.
+- [woocommerce-sales](https://gist.github.com/olikdesign/4c9c5549686c81e728b065286eb0e750) - Sales statistics from WooCommerce shop.
 
   <img src="https://user-images.githubusercontent.com/56842969/97914623-76a44b80-1d50-11eb-9273-b35b4b76a3f0.jpeg" width="400"/>
 
