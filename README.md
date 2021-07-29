@@ -7,7 +7,7 @@
 > A carefully curated list of awesome Scriptable widgets.
 
 <!--lint disable double-link-->
-[Scriptable](https://scriptable.app/) is an app to automate iOS using JavaScript language. 
+[Scriptable](https://scriptable.app/) is an app to automate iOS using JavaScript. 
 <!--lint enable double-link-->
 
 ## Contents
