@@ -25,6 +25,7 @@
 - [Shopping](#shopping)
 - [Sports](#sports)
 - [Tools](#tools)
+- [Traveling](#traveling)
 - [Related](#related)
   - [Download helper](#download-helper)
   - [Additional resources](#additional-resources)
@@ -195,6 +196,10 @@
   <img src="https://user-images.githubusercontent.com/56842969/97914623-76a44b80-1d50-11eb-9273-b35b4b76a3f0.jpeg" width="400"/>
 
 - [xkcd.js](https://github.com/supermamon/scriptable-scripts/blob/master/xkcd-widget/xkcd.js) - Current or random xkcd comic.
+
+## Traveling
+
+- [location-location-location](https://github.com/doersino/scriptable-widgets/tree/main/location-location-location) - Show Google Maps image from current location.
 
 ## Related
 
