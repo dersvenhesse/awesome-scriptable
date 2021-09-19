@@ -65,9 +65,9 @@
 
   <img src="https://raw.githubusercontent.com/rudotriton/scriptable-calendar-widget/main/assets/scriptable-calendar-widget.jpg" width="400"/>
 
-- [WordClockWidget](https://github.com/yaylinda/scriptable#WordClockWidget) - Clock showing the current time in writing.
+- [ScriptableWordClockWidget](https://github.com/bitKrakenCode/ScriptableWordClockWidget) - Clock showing the current time in writing.
 
-  <img src="https://raw.githubusercontent.com/yaylinda/scriptable/main/images/WordClockWidget.png" width="200"/>
+  <img src="https://user-images.githubusercontent.com/59827320/133928177-b32f866d-0ae5-46c8-89c9-aa2cb21971e4.png" width="400"/>
 
 ## Finance
 
