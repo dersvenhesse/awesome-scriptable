@@ -84,6 +84,10 @@
 - [btc-usd-course.js](https://github.com/wickenico/btc-usd-course.js) - Shows the current bitcoin course in USD.
 
   <img src="https://github.com/wickenico/btc-usd-course.js/blob/main/img/bitcoin-usd-course-widget-small.png?raw=true" height="200"/>
+  
+- [Tradegate Stock Widget](https://github.com/Chrischi-/tradegate-stock-info-for-scriptable) - Stocks Widget to show share prices from Tradegate Exchange.
+
+  <img src="https://user-images.githubusercontent.com/6323217/147655180-c4d3041c-58c1-4108-b001-29e01767025d.png" height="200"/>
 
 ## Food
 
