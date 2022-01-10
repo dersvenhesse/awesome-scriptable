@@ -35,7 +35,7 @@
 
 - [BMW Linker](https://github.com/opp100/bmw-scriptable-widgets) - Information about your BMW, like location or mileage.
 
-  <img src="https://github.com/opp100/bmw-scriptable-widgets/raw/main/screenshots/sc_1.png?raw=true" />
+  <img src="https://raw.githubusercontent.com/opp100/bmw-scriptable-widgets/main/screenshots/sc_1.png" width="400"/>
 
 - [FordPassWidget](https://github.com/dschablowsky/FordPassWidget) - Information about your Ford, like location or mileage.
 
@@ -91,7 +91,7 @@
 
 ## Food
 
-- [FoodRecipeWidget](https://github.com/shfrmn/scriptable-recipe) - Random food recipe widget that opens cooking video on YouTube.
+- [scriptable-recipe](https://github.com/shfrmn/scriptable-recipe) - Random food recipe widget that opens cooking video on YouTube.
 
   <img src="https://user-images.githubusercontent.com/12446468/108283292-f11b9e80-717a-11eb-9a79-8848e5803166.PNG" width="400"/>
 
@@ -192,6 +192,8 @@
 - [PurpleAir-AQI-Scriptable-Widget](https://github.com/jasonsnell/PurpleAir-AQI-Scriptable-Widget) - Air Quality from PurpleAir sensor.
 
   <img src="https://camo.githubusercontent.com/1fdb80ce7198c16a4fafd1586a45307bbf255962/68747470733a2f2f736978636f6c6f72732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31302f7769646765742d6c61746573742e6a706567" width="400"/>
+
+- [scriptable-testflight-watcher](https://github.com/FifiTheBulldog/scriptable-testflight-watcher) - Get notifications about new spots in TestFlight betas.
 
 - [Scriptables-WindowWidget](https://github.com/Robby3St/Scriptables-WindowWidget) - Setting reminders for room ventilation.
 
