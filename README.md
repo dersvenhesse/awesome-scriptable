@@ -209,9 +209,9 @@
 
 ## Traveling
 
-- [citi_bike.js](https://gist.github.com/coughski/43c7a4da3829a3ffe394d6eeb6a8c90a) - A station status tracker showing bike availability for NYC's Citi Bike bicycle sharing program.
+- [citi_bike.js](https://gist.github.com/coughski/43c7a4da3829a3ffe394d6eeb6a8c90a) - Shows availabilities for NYC's bicycle sharing program.
 
-<img src="https://user-images.githubusercontent.com/945761/161787518-9cbd252c-64f4-4c77-9793-a4b3d3c3f1ef.jpg" width="400"/>
+  <img src="https://user-images.githubusercontent.com/945761/161787518-9cbd252c-64f4-4c77-9793-a4b3d3c3f1ef.jpg" width="400"/>
 
 - [location-location-location](https://github.com/doersino/scriptable-widgets/tree/main/location-location-location) - Show Google Maps image from current location.
 
