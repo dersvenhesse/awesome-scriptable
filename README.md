@@ -137,6 +137,10 @@
 
   <img src="https://raw.githubusercontent.com/Saudumm/scriptable-News-Widget/main/images/widgets.jpg" width="800"/>
 
+- [scriptable-pocket-widget](https://github.com/brianseidman/scriptable-pocket-widget) – Widget to show unread or favorited [Pocket](https://getpocket.com) articles.
+
+  <img src="https://github.com/brianseidman/scriptable-pocket-widget/blob/72495ad9cc488b9790bb2ee6eac8dcedcf36dd96/Resources/scriptable-pocket-widget-image.png" width=400 alt="Scriptable Pocket Widget Screenshot">
+
 - [sonntagsfrage](https://github.com/henningtillmann/sonntagsfrage) - The latest German political poll results.
 
   <img src="https://raw.githubusercontent.com/henningtillmann/sonntagsfrage/main/screenshot-1.png" width="400"/>
