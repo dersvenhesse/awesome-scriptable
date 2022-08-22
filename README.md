@@ -103,6 +103,10 @@
 
 ## Health
 
+- [Covid Graph Widget](https://github.com/Hider-alt/covid-widget) - See a graph of Covid cases for the last 8/15 days of the selected country.
+
+  <img src="https://raw.githubusercontent.com/Hider-alt/covid-widget/main/img/Mockup.png" width="800">
+
 - [Coronavirus.js](https://gist.github.com/planecore/e7b4c1e5db2dd28b1a023860e831355e) -  Covid-19 cases of a selected country.
 
 - [incidence.js](https://gist.github.com/kevinkub/46caebfebc7e26be63403a7f0587f664) - Covid-19 incidence data for Germany.
