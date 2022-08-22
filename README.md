@@ -103,7 +103,7 @@
 
 ## Health
 
-- [Covid Graph Widget](https://github.com/Hider-alt/covid-widget) - See a graph of Covid cases for the last 8/15 days of the selected country.
+- [Covid iOS Widget](https://github.com/Hider-alt/covid-widget) - Covid-19 cases graph of a selected country.
 
   <img src="https://raw.githubusercontent.com/Hider-alt/covid-widget/main/img/Mockup.png" width="800">
 
