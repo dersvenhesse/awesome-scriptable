@@ -41,6 +41,10 @@
 
   <img src="https://github.com/dschablowsky/FordPassWidget/raw/master/fp-widget.jpg" width="400"/>
 
+- [SmarterTankenWidget.js](https://github.com/Martlgap/SmarterTankenWidget) - Difference of two Gas Stations (Different Countries).
+ 
+  <img src="https://user-images.githubusercontent.com/20643017/189459347-e66e7ec1-c66a-4467-b6c9-5517bd38ac28.png" width="200"/>
+
 - [tankstellenpreise.js](https://github.com/Necriso/ScriptableWidgets/blob/main/tankstellenpreise.js) - Fuel prices from a nearby gas station.
 
   <img src="https://raw.githubusercontent.com/Necriso/ScriptableWidgets/main/images/tankstellenpreise.png" width="200"/>
