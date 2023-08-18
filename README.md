@@ -129,6 +129,10 @@
 
   <img src="https://raw.githubusercontent.com/ThisIsBenny/iOS-Widgets/main/VodafoneDE/previewLight.jpeg" width="200"/>
 
+- [scriptable_premiumsim](https://github.com/BergenSoft/scriptable_premiumsim) - Data consumption based on tariff for Drillish providers (e.g. WinSIM, PremiumSIM).
+
+  <img src="https://github.com/BergenSoft/scriptable_premiumsim/raw/main/Preview.jpg" width="200"/>
+
 ## Music
 
 - [sonos-nowPlaying.js](https://gist.github.com/marco79cgn/98616fcbb2dfdbd752b33a452208bcc8) - Now playing on Sonos.
