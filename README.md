@@ -191,7 +191,7 @@
   
 - [lichess Widget](https://github.com/bestmacfly/Scriptable-lichess-Widget) - Your current lichess statistics.
 
-  <img src="https://github.com/bestmacfly/Scriptable-lichess-Widget/Screenshot.png " width="400"/>
+  <img src="https://github.com/bestmacfly/Scriptable-lichess-Widget/raw/main/Screenshot.png " width="400"/>
 
 - [rsg_group_mcfit_high5_johnreed_capacity_widget.js](https://gist.github.com/masselmello/6d4f4c533b98b2550ee23a7a5e6c6cff) - Capacity of the nearest McFit gym.
 
