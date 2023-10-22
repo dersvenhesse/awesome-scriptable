@@ -188,6 +188,8 @@
 - [fitx-widget.js](https://gist.github.com/DanielStefanK/487175b6f65ede401e37ee4848970176) - Workload of a FitX gym.
 
 - [nfl-team-schedule-widget](https://github.com/brianwalborn/nfl-team-schedule-widget) - The current season schedule for an NFL team.
+  
+- [lichess Widget](https://github.com/bestmacfly/Scriptable-lichess-Widget) - Your current lichess statistics.
 
 - [rsg_group_mcfit_high5_johnreed_capacity_widget.js](https://gist.github.com/masselmello/6d4f4c533b98b2550ee23a7a5e6c6cff) - Capacity of the nearest McFit gym.
 
