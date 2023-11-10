@@ -41,7 +41,7 @@
 
   <img src="https://github.com/dschablowsky/FordPassWidget/raw/master/fp-widget.jpg" width="400"/>
 
-- [Polestar SoC Lockscreen Widget](https://github.com/niklasvieth/polestar-ios-lockscreen-widget) - Lockscreen widget to display the current state of charge (SoC) of your Polestar 2.
+- [Polestar SoC Lockscreen Widget](https://github.com/niklasvieth/polestar-ios-lockscreen-widget) - Current state of charge of your Polestar 2 as lockscreen widget.
 
   <img src="https://raw.githubusercontent.com/niklasvieth/polestar-ios-lockscreen-widget/main/images/polestar_lockscreen_widget.jpeg" width="400"/>
 
