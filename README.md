@@ -207,6 +207,10 @@
 
 ## Tools
 
+- [bamboo-scriptable-widget](https://github.com/Korysam15/bamboo-scriptable-widget) - Status of build plans from Bamboo.   
+
+  <img src="https://raw.githubusercontent.com/Korysam15/bamboo-scriptable-widget/main/docs/img/widget.png" width="200"/>
+
 - [gitlab-stats-for-scribtable](https://github.com/p0fi/gitlab-stats-for-scribtable) - Statistics from GitLab like the number of assigned merge requests.
 
   <img src="https://raw.githubusercontent.com/p0fi/gitlab-stats-for-scribtable/main/cover.png" width="800"/>
