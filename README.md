@@ -188,7 +188,9 @@
 
 ## Space
 
-- [Launch Schedule](https://github.com/rik-rosseel/launch-schedule/tree/v1.2.0) - Upcoming space launches and info
+- [Launch Schedule](https://github.com/rik-rosseel/launch-schedule/tree/v1.2.0) - Upcoming space launches and info.
+
+  <img src="https://github.com/rik-rosseel/awesome-scriptable/assets/36194842/976f0107-3fae-4502-9d9a-2a8315986386.JPG" height="400"/>
 
 ## Sports
 
