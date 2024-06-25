@@ -23,6 +23,7 @@
 - [Reading](#reading)
 - [Social](#social)
 - [Shopping](#shopping)
+- [Space](#space)
 - [Sports](#sports)
 - [Tools](#tools)
 - [Traveling](#traveling)
@@ -184,6 +185,10 @@
 - [dm-toilet-paper.js](https://gist.github.com/marco79cgn/23ce08fd8711ee893a3be12d4543f2d2) - Toilet paper availability in a nearby drugstore.
 
   <img src="https://user-images.githubusercontent.com/9810829/96903902-b3418e80-1496-11eb-954c-1e2d9b8f9c69.JPG" width="400"/>
+
+## Space
+
+- [Launch Schedule](https://github.com/rik-rosseel/launch-schedule/tree/v1.2.0) - Upcoming space launches and info
 
 ## Sports
 
