@@ -214,6 +214,10 @@
 
 ## Tools
 
+- [bwh-monitor-widget-for-scriptable](https://github.com/f1tz/bwh-monitor-widget-for-scriptable) - BandWagonHost VPS Monitoring Widget.   
+
+  <img src="https://raw.githubusercontent.com/f1tz/bwh-monitor-widget-for-scriptable/main/imgs/widget_preview.jpg" width="600"/>
+
 - [bamboo-scriptable-widget](https://github.com/Korysam15/bamboo-scriptable-widget) - Status of build plans from Bamboo.   
 
   <img src="https://raw.githubusercontent.com/Korysam15/bamboo-scriptable-widget/main/docs/img/widget.png" width="200"/>
