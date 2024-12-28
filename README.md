@@ -12,6 +12,7 @@
 
 ## Contents
 
+- [Art](#art)
 - [Cars](#cars)
 - [Calendar](#calendar)
 - [Finance](#finance)
@@ -31,6 +32,10 @@
   - [Download helper](#download-helper)
   - [Additional resources](#additional-resources)
   - [Articles](#articles)
+
+## Art
+
+- [Random-Canvas](https://github.com/RiccStella/Random-Canvas) - Generates random images.
 
 ## Cars
 
