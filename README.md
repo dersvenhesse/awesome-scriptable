@@ -221,10 +221,6 @@
 
   <img src="https://github.com/rushhiii/Scriptable-IOSWidgets/blob/main/.src/githubstats/githubstats_showcase.png?raw=true" width="400"/>
 
-- [gitlab-stats-for-scribtable](https://github.com/p0fi/gitlab-stats-for-scribtable) - Statistics from GitLab like the number of assigned merge requests.
-
-  <img src="https://raw.githubusercontent.com/p0fi/gitlab-stats-for-scribtable/main/cover.png" width="800"/>
-
 - [mz_invisible_widget.js](https://gist.github.com/mzeryck/3a97ccd1e059b3afa3c6666d27a496c9) - Creation of "invisible" backgrounds.
 
 - [PurpleAir-AQI-Scriptable-Widget](https://github.com/jasonsnell/PurpleAir-AQI-Scriptable-Widget) - Air Quality from PurpleAir sensor.
@@ -232,6 +228,10 @@
   <img src="https://camo.githubusercontent.com/30832e8a15e65027863fc897d902810c1cbd3160f7c0e0a6ae96d3c37720cdca/68747470733a2f2f736978636f6c6f72732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30382f6e65772d6171692e6a7067" width="400"/>
 
 - [scriptable-testflight-watcher](https://github.com/FifiTheBulldog/scriptable-testflight-watcher) - Get notifications about new spots in TestFlight betas.
+  
+- [Time Progress](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/ModularTimeProgress%20Widget) - Animated progress rings and grids showing your day, week, month, and year at a glance.
+
+  <img src="https://github.com/rushhiii/Scriptable-IOSWidgets/blob/main/.src/timeprogress/timeprogress_showcase.png?raw=true" width="400"/>
 
 - [Scriptables-WindowWidget](https://github.com/Robby3St/Scriptables-WindowWidget) - Setting reminders for room ventilation.
 
