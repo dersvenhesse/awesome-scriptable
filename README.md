@@ -83,10 +83,6 @@
 
   <img src="https://user-images.githubusercontent.com/59827320/133928177-b32f866d-0ae5-46c8-89c9-aa2cb21971e4.png" width="400"/>
 
-- [Smart Countdown](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/Countdown%20Widget) - Customizable countdown widget with age tracking, layout modes, and Google Sheets integration.
-
-  <img src="https://github.com/rushhiii/Scriptable-IOSWidgets/blob/main/.src/countdown/countdow_showcase.png?raw=true">
-
 ## Finance
 
 - [CryptoDepotWidget](https://github.com/Martlgap/CryptoDepotWidget) - A widget showing your crypto balances.
