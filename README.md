@@ -12,26 +12,28 @@
 
 ## Contents
 
-- [Art](#art)
-- [Cars](#cars)
-- [Calendar](#calendar)
-- [Finance](#finance)
-- [Food](#food)
-- [Gaming](#gaming)
-- [Health](#health)
-- [Mobile](#mobile)
-- [Music](#music)
-- [Reading](#reading)
-- [Social](#social)
-- [Shopping](#shopping)
-- [Space](#space)
-- [Sports](#sports)
-- [Tools](#tools)
-- [Traveling](#traveling)
-- [Related](#related)
-  - [Download helper](#download-helper)
-  - [Additional resources](#additional-resources)
-  - [Articles](#articles)
+- [Awesome Scriptable ](#awesome-scriptable-)
+  - [Contents](#contents)
+  - [Art](#art)
+  - [Cars](#cars)
+  - [Calendar](#calendar)
+  - [Finance](#finance)
+  - [Food](#food)
+  - [Gaming](#gaming)
+  - [Health](#health)
+  - [Mobile](#mobile)
+  - [Music](#music)
+  - [Reading](#reading)
+  - [Social](#social)
+  - [Shopping](#shopping)
+  - [Space](#space)
+  - [Sports](#sports)
+  - [Tools](#tools)
+  - [Traveling](#traveling)
+  - [Related](#related)
+    - [Download helper](#download-helper)
+    - [Additional resources](#additional-resources)
+    - [Articles](#articles)
 
 ## Art
 
@@ -80,6 +82,10 @@
 - [ScriptableWordClockWidget](https://github.com/bitKrakenCode/ScriptableWordClockWidget) - Clock showing the current time in writing.
 
   <img src="https://user-images.githubusercontent.com/59827320/133928177-b32f866d-0ae5-46c8-89c9-aa2cb21971e4.png" width="400"/>
+
+- [Smart Countdown](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/Countdown%20Widget) - Customizable countdown widget with age tracking, layout modes, and Google Sheets integration.
+
+  <img src="https://github.com/rushhiii/Scriptable-IOSWidgets/blob/main/.src/countdown/countdow_showcase.png?raw=true">
 
 ## Finance
 
