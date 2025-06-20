@@ -150,6 +150,11 @@
   
 ## Reading
 
+- [MyQuotes](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/MyQuotes%20Widget) - Display daily inspirational quotes pulled from your own Google Sheet. Supports categories like Zen, Gita, Aurelius, Kafka, and more, with auto-refresh and customizable colors.
+
+  <img src="https://github.com/rushhiii/Scriptable-IOSWidgets/blob/main/.src/quotes/quote_showcase.png?raw=true"/>
+
+
 - [scriptable-news-Widget.js](https://github.com/Saudumm/scriptable-News-Widget) - The latest posts from a feed or a WordPress blog.
 
   <img src="https://raw.githubusercontent.com/Saudumm/scriptable-News-Widget/main/images/widgets.jpg" width="800"/>
@@ -227,10 +232,6 @@
 - [PurpleAir-AQI-Scriptable-Widget](https://github.com/jasonsnell/PurpleAir-AQI-Scriptable-Widget) - Air Quality from PurpleAir sensor.
 
   <img src="https://camo.githubusercontent.com/30832e8a15e65027863fc897d902810c1cbd3160f7c0e0a6ae96d3c37720cdca/68747470733a2f2f736978636f6c6f72732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30382f6e65772d6171692e6a7067" width="400"/>
-
-- [Dynamic Weather](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/AQI%20Widget) - Real-time weather widget with location auto-detect, responsive layout, and gradient backgrounds using OpenWeather API.
-
-  <img src="https://github.com/rushhiii/Scriptable-IOSWidgets/blob/main/.src/weather/weather_showcase_s.png?raw=true" width="400"/>
 
 - [scriptable-testflight-watcher](https://github.com/FifiTheBulldog/scriptable-testflight-watcher) - Get notifications about new spots in TestFlight betas.
 
