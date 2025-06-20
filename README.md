@@ -83,9 +83,10 @@
 
   <img src="https://user-images.githubusercontent.com/59827320/133928177-b32f866d-0ae5-46c8-89c9-aa2cb21971e4.png" width="400"/>
 
-- [Smart Countdown](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/Countdown%20Widget) - Customizable countdown widget with age tracking, layout modes, and Google Sheets integration.
 
-  <img src="https://github.com/rushhiii/Scriptable-IOSWidgets/blob/main/.src/countdown/countdow_showcase.png?raw=true">
+- [Life Progress](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/Birthday%20Widget) - Displays exact age, days lived, and birthday progress using a circular ring.
+
+  <img src="https://github.com/rushhiii/Scriptable-IOSWidgets/blob/main/.src/birthday/birthday_showcase.png?raw=true" width="400"/>
 
 ## Finance
 
@@ -148,6 +149,11 @@
   <img src="https://user-images.githubusercontent.com/9810829/94380118-76eb6e80-0134-11eb-9d71-c6d587b8b224.jpeg" width="400"/>
   
 ## Reading
+
+- [MyQuotes](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/MyQuotes%20Widget) - Display daily inspirational quotes pulled from your own Google Sheet. Supports categories like Zen, Gita, Aurelius, Kafka, and more, with auto-refresh and customizable colors.
+
+  <img src="https://github.com/rushhiii/Scriptable-IOSWidgets/blob/main/.src/quotes/quote_showcase.png?raw=true"/>
+
 
 - [scriptable-news-Widget.js](https://github.com/Saudumm/scriptable-News-Widget) - The latest posts from a feed or a WordPress blog.
 
@@ -220,10 +226,6 @@
 - [github-contributions](https://github.com/ferraridavide/scriptable/blob/main/github-contributions.js) - GitHub contributions heatmap on your lockscreen.
 
   <img src="https://raw.githubusercontent.com/ferraridavide/scriptable/main/img/github.jpg" width="300"/>
-
-- [gitlab-stats-for-scribtable](https://github.com/p0fi/gitlab-stats-for-scribtable) - Statistics from GitLab like the number of assigned merge requests.
-
-  <img src="https://raw.githubusercontent.com/p0fi/gitlab-stats-for-scribtable/main/cover.png" width="800"/>
 
 - [mz_invisible_widget.js](https://gist.github.com/mzeryck/3a97ccd1e059b3afa3c6666d27a496c9) - Creation of "invisible" backgrounds.
 
