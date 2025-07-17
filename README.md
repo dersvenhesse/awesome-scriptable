@@ -233,7 +233,7 @@
 
 - [GitHub Visuals](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/GitHubStats%20Widget) - GitHub widget with contributions heatmap, commits, streaks, stars, and repo stats in themed layouts.
 
-  <img src="https://github.com/rushhiii/Scriptable-IOSWidgets/blob/main/.src/githubstats/githubstats_showcase.png?raw=true" width="400"/>
+  <img src="https://github.com/rushhiii/Scriptable-IOSWidgets/blob/main/.src/githubstats/githubstats_showcase.png?raw=true" width="700"/>
 
 - [gitlab-stats-for-scribtable](https://github.com/p0fi/gitlab-stats-for-scribtable) - Statistics from GitLab like the number of assigned merge requests.
 
