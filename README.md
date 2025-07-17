@@ -71,7 +71,7 @@
 
 - [Class Schedule Viewer](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/Class%20Schedule%20Viewer) - Displays your daily or weekly class schedule from a Google Sheet.
 
-  <img src="https://raw.githubusercontent.com/rushhiii/Scriptable-IOSWidgets/main/.src/schedule/schedule_showcase.png"/>
+  <img src="https://raw.githubusercontent.com/rushhiii/Scriptable-IOSWidgets/main/.src/schedule/schedule_showcase.png" width="800"/>
 
 - [countdown.js](https://gist.github.com/flasozzi/ab6222ea15de5113555c32c855e9e326) - Simple countdown to dates.
 
@@ -153,7 +153,7 @@
 
 - [MyQuotes](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/MyQuotes%20Widget) - Display daily inspirational quotes pulled from your own Google Sheet. Supports categories like Zen, Gita, Aurelius, Kafka, and more, with auto-refresh and customizable colors.
 
-  <img src="https://github.com/rushhiii/Scriptable-IOSWidgets/blob/main/.src/quotes/quote_showcase.png?raw=true" width="800"/>
+  <img src="https://github.com/rushhiii/Scriptable-IOSWidgets/blob/main/.src/quotes/quote_showcase.png?raw=true" width="600"/>
 
 - [scriptable-news-Widget.js](https://github.com/Saudumm/scriptable-News-Widget) - The latest posts from a feed or a WordPress blog.
 
