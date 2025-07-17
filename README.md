@@ -147,6 +147,10 @@
   
 ## Reading
 
+- [MyQuotes](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/MyQuotes%20Widget) - Display daily inspirational quotes pulled from your own Google Sheet. Supports categories like Zen, Gita, Aurelius, Kafka, and more, with auto-refresh and customizable colors.
+
+  <img src="https://github.com/rushhiii/Scriptable-IOSWidgets/blob/main/.src/quotes/quote_showcase.png?raw=true"/>
+
 - [scriptable-news-Widget.js](https://github.com/Saudumm/scriptable-News-Widget) - The latest posts from a feed or a WordPress blog.
 
   <img src="https://raw.githubusercontent.com/Saudumm/scriptable-News-Widget/main/images/widgets.jpg" width="800"/>
