@@ -81,6 +81,10 @@
 
   <img src="https://user-images.githubusercontent.com/59827320/133928177-b32f866d-0ae5-46c8-89c9-aa2cb21971e4.png" width="400"/>
 
+- [Life Progress](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/Birthday%20Widget) - Displays exact age, days lived, and birthday progress using a circular ring.
+
+  <img src="https://github.com/rushhiii/Scriptable-IOSWidgets/blob/main/.src/birthday/birthday_showcase.png?raw=true" width="400"/>
+
 ## Finance
 
 - [CryptoDepotWidget](https://github.com/Martlgap/CryptoDepotWidget) - A widget showing your crypto balances.
