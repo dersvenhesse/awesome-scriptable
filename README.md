@@ -253,6 +253,10 @@
 
 - [server-status-widget.js](https://gist.github.com/dioncodes/cd4554d8593814a94925735cbcdea0c8) - Reachability of web servers.
 
+- [Time-Progress](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/ModularTimeProgress%20Widget) - Animated progress rings and grids showing your day, week, month, and year at a glance.
+
+  <img src="https://github.com/rushhiii/Scriptable-IOSWidgets/blob/main/.src/timeprogress/timeprogress_showcase.png?raw=true"/>
+
 - [woocommerce-sales](https://gist.github.com/olikdesign/4c9c5549686c81e728b065286eb0e750) - Sales statistics from WooCommerce shop.
 
   <img src="https://user-images.githubusercontent.com/56842969/97914623-76a44b80-1d50-11eb-9273-b35b4b76a3f0.jpeg" width="400"/>
