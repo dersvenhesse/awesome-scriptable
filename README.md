@@ -259,7 +259,7 @@
 
 - [Time-Progress](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/ModularTimeProgress%20Widget) - Animated progress rings and grids showing your day, week, month, and year at a glance.
 
-  <img src="https://github.com/rushhiii/Scriptable-IOSWidgets/blob/main/.src/timeprogress/timeprogress_showcase.png?raw=true"/>
+  <img src="https://github.com/rushhiii/Scriptable-IOSWidgets/blob/main/.src/timeprogress/timeprogress_showcase.png?raw=true" width="700"/>
 
 - [woocommerce-sales](https://gist.github.com/olikdesign/4c9c5549686c81e728b065286eb0e750) - Sales statistics from WooCommerce shop.
 
