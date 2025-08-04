@@ -12,8 +12,6 @@
 
 ## Contents
 
-- [Awesome Scriptable ](#awesome-scriptable-)
-  - [Contents](#contents)
   - [Art](#art)
   - [Cars](#cars)
   - [Calendar](#calendar)
