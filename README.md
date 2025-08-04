@@ -12,26 +12,28 @@
 
 ## Contents
 
-- [Art](#art)
-- [Cars](#cars)
-- [Calendar](#calendar)
-- [Finance](#finance)
-- [Food](#food)
-- [Gaming](#gaming)
-- [Health](#health)
-- [Mobile](#mobile)
-- [Music](#music)
-- [Reading](#reading)
-- [Social](#social)
-- [Shopping](#shopping)
-- [Space](#space)
-- [Sports](#sports)
-- [Tools](#tools)
-- [Traveling](#traveling)
-- [Related](#related)
-  - [Download helper](#download-helper)
-  - [Additional resources](#additional-resources)
-  - [Articles](#articles)
+- [Awesome Scriptable ](#awesome-scriptable-)
+  - [Contents](#contents)
+  - [Art](#art)
+  - [Cars](#cars)
+  - [Calendar](#calendar)
+  - [Finance](#finance)
+  - [Food](#food)
+  - [Gaming](#gaming)
+  - [Health](#health)
+  - [Mobile](#mobile)
+  - [Music](#music)
+  - [Reading](#reading)
+  - [Social](#social)
+  - [Shopping](#shopping)
+  - [Space](#space)
+  - [Sports](#sports)
+  - [Tools](#tools)
+  - [Traveling](#traveling)
+  - [Related](#related)
+    - [Download helper](#download-helper)
+    - [Additional resources](#additional-resources)
+    - [Articles](#articles)
 
 ## Art
 
@@ -69,13 +71,13 @@
 
 ## Calendar
 
-- [Class Schedule Viewer](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/Class%20Schedule%20Viewer) - Displays your daily or weekly class schedule from a Google Sheet.
+- [Class Schedule Viewer](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/Widgets/Schedule%20Widget) - Displays your daily or weekly class schedule from a Google Sheet.
 
-  <img src="https://raw.githubusercontent.com/rushhiii/Scriptable-IOSWidgets/main/.src/schedule/schedule_showcase.png" width="700"/>
+  <img src="https://github.com/rushhiii/Scriptable-IOSWidgets/blob/main/.assets/schedule/schedule_showcase.png?raw=true" width="700"/>
 
-- [Countdown Widget](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/Countdown%20Widget) - A fully customizable countdown widget, powered by Google Sheets. Track upcoming events (birthdays, anniversaries, deadlines) on your iOS home screen with dynamic countdowns, age display, color/icon customization, flexible layouts, offline support, and Google Sheets integration.
+- [Countdown Widget](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/Widgets/Countdown%20Widget) - A fully customizable countdown widget, powered by Google Sheets. Track upcoming events (birthdays, anniversaries, deadlines) on your iOS home screen with dynamic countdowns, age display, color/icon customization, flexible layouts, offline support, and Google Sheets integration.
 
-  <img src="https://github.com/rushhiii/Scriptable-IOSWidgets/blob/4f3b76faaec6f5544f630b2d74c19f06d2b0c7a3/.src/countdown/countdow_showcase.png" width="700"/>
+  <img src="https://github.com/rushhiii/Scriptable-IOSWidgets/blob/main/.assets/countdown/countdow_showcase.png?raw=true" width="700"/>
 
 - [countdown.js](https://gist.github.com/flasozzi/ab6222ea15de5113555c32c855e9e326) - Simple countdown to dates.
 
@@ -89,9 +91,9 @@
 
   <img src="https://user-images.githubusercontent.com/59827320/133928177-b32f866d-0ae5-46c8-89c9-aa2cb21971e4.png" width="400"/>
 
-- [Life Progress](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/Birthday%20Widget) - Displays exact age, days lived, and birthday progress using a circular ring.
+- [Life Progress](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/Widgets/Birthday%20Widget) - Displays exact age, days lived, and birthday progress using a circular ring.
 
-  <img src="https://github.com/rushhiii/Scriptable-IOSWidgets/blob/main/.src/birthday/birthday_showcase.png?raw=true" width="400"/>
+  <img src="https://github.com/rushhiii/Scriptable-IOSWidgets/blob/main/.assets/birthday/birthday_showcase.png?raw=true" width="400"/>
 
 ## Finance
 
@@ -155,9 +157,9 @@
   
 ## Reading
 
-- [MyQuotes](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/MyQuotes%20Widget) - Display daily inspirational quotes pulled from your own Google Sheet. Supports categories like Zen, Gita, Aurelius, Kafka, and more, with auto-refresh and customizable colors.
+- [MyQuotes](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/Widgets/Quote%20Widget) - Display daily inspirational quotes pulled from your own Google Sheet. Supports categories like Zen, Gita, Aurelius, Kafka, and more, with auto-refresh and customizable colors.
 
-  <img src="https://github.com/rushhiii/Scriptable-IOSWidgets/blob/main/.src/quotes/quote_showcase.png?raw=true" width="600"/>
+  <img src="https://github.com/rushhiii/Scriptable-IOSWidgets/blob/main/.assets/quotes/quote_showcase.png?raw=true" width="600"/>
 
 - [scriptable-news-Widget.js](https://github.com/Saudumm/scriptable-News-Widget) - The latest posts from a feed or a WordPress blog.
 
@@ -197,7 +199,7 @@
 
 - [Launch Schedule](https://github.com/rik-rosseel/launch-schedule) - Upcoming space launches and info.
 
-  <img src="https://github.com/rik-rosseel/awesome-scriptable/assets/36194842/976f0107-3fae-4502-9d9a-2a8315986386.JPG" width="400"/>
+  <img src="https://github.com/rik-rosseel/launch-schedule/blob/main/assets/Large%20Dark.png?raw=true" width="400"/>
 
 ## Sports
 
@@ -231,9 +233,9 @@
 
   <img src="https://raw.githubusercontent.com/ferraridavide/scriptable/main/img/github.jpg" width="300"/>
 
-- [GitHub Visuals](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/GitHubStats%20Widget) - GitHub widget with contributions heatmap, commits, streaks, stars, and repo stats in themed layouts.
+- [GitHub Visuals](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/Widgets/GitHubStats%20Widget) - GitHub widget with contributions heatmap, commits, streaks, stars, and repo stats in themed layouts.
 
-  <img src="https://github.com/rushhiii/Scriptable-IOSWidgets/blob/main/.src/githubstats/githubstats_showcase.png?raw=true" width="700"/>
+  <img src="https://github.com/rushhiii/Scriptable-IOSWidgets/blob/main/.assets/githubstats/githubstats_showcase.png?raw=true" width="700"/>
 
 - [gitlab-stats-for-scribtable](https://github.com/p0fi/gitlab-stats-for-scribtable) - Statistics from GitLab like the number of assigned merge requests.
 
@@ -253,9 +255,9 @@
 
 - [server-status-widget.js](https://gist.github.com/dioncodes/cd4554d8593814a94925735cbcdea0c8) - Reachability of web servers.
 
-- [Time-Progress](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/ModularTimeProgress%20Widget) - Animated progress rings and grids showing your day, week, month, and year at a glance.
+- [Time-Progress](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/Widgets/TimeProgress%20Widget) - Animated progress rings and grids showing your day, week, month, and year at a glance.
 
-  <img src="https://github.com/rushhiii/Scriptable-IOSWidgets/blob/main/.src/timeprogress/timeprogress_showcase.png?raw=true" width="700"/>
+  <img src="https://raw.githubusercontent.com/rushhiii/Scriptable-IOSWidgets/main/.assets/timeprogress/timeprogress_showcase.png" width="700"/>
 
 - [woocommerce-sales](https://gist.github.com/olikdesign/4c9c5549686c81e728b065286eb0e750) - Sales statistics from WooCommerce shop.
 
