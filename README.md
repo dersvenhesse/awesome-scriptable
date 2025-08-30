@@ -71,11 +71,11 @@
 
 - [Class Schedule Viewer](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/Widgets/Schedule%20Widget) - Displays your daily or weekly class schedule from a Google Sheet.
 
-  <img src="https://github.com/rushhiii/Scriptable-IOSWidgets/blob/main/.assets/schedule/schedule_showcase.png?raw=true" width="700"/>
+  <img src="https://raw.githubusercontent.com/rushhiii/Scriptable-IOSWidgets/refs/heads/main/.assets/schedule/schedule_showcase.png" width="700"/>
 
 - [Countdown Widget](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/Widgets/Countdown%20Widget) - A fully customizable countdown widget, powered by Google Sheets. Track upcoming events (birthdays, anniversaries, deadlines) on your iOS home screen with dynamic countdowns, age display, color/icon customization, flexible layouts, offline support, and Google Sheets integration.
 
-  <img src="https://github.com/rushhiii/Scriptable-IOSWidgets/blob/main/.assets/countdown/countdow_showcase.png?raw=true" width="700"/>
+  <img src="https://raw.githubusercontent.com/rushhiii/Scriptable-IOSWidgets/refs/heads/main/.assets/countdown/countdow_showcase.png" width="700"/>
 
 - [countdown.js](https://gist.github.com/flasozzi/ab6222ea15de5113555c32c855e9e326) - Simple countdown to dates.
 
@@ -91,7 +91,7 @@
 
 - [Life Progress](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/Widgets/Birthday%20Widget) - Displays exact age, days lived, and birthday progress using a circular ring.
 
-  <img src="https://github.com/rushhiii/Scriptable-IOSWidgets/blob/main/.assets/birthday/birthday_showcase.png?raw=true" width="400"/>
+  <img src="https://raw.githubusercontent.com/rushhiii/Scriptable-IOSWidgets/refs/heads/main/.assets/birthday/birthday_showcase.png" width="400"/>
 
 ## Finance
 
@@ -157,7 +157,7 @@
 
 - [MyQuotes](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/Widgets/Quote%20Widget) - Display daily inspirational quotes pulled from your own Google Sheet. Supports categories like Zen, Gita, Aurelius, Kafka, and more, with auto-refresh and customizable colors.
 
-  <img src="https://github.com/rushhiii/Scriptable-IOSWidgets/blob/main/.assets/quotes/quote_showcase.png?raw=true" width="600"/>
+  <img src="https://raw.githubusercontent.com/rushhiii/Scriptable-IOSWidgets/refs/heads/main/.assets/quotes/quote_showcase.png" width="800"/>
 
 - [scriptable-news-Widget.js](https://github.com/Saudumm/scriptable-News-Widget) - The latest posts from a feed or a WordPress blog.
 
@@ -197,7 +197,7 @@
 
 - [Launch Schedule](https://github.com/rik-rosseel/launch-schedule) - Upcoming space launches and info.
 
-  <img src="https://github.com/rik-rosseel/launch-schedule/blob/main/assets/Large%20Dark.png?raw=true" width="400"/>
+  <img src="https://raw.githubusercontent.com/rik-rosseel/launch-schedule/refs/heads/main/assets/Medium%20Dark.png" width="400"/>
 
 ## Sports
 
@@ -233,7 +233,7 @@
 
 - [GitHub Visuals](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/Widgets/GitHubStats%20Widget) - GitHub widget with contributions heatmap, commits, streaks, stars, and repo stats in themed layouts.
 
-  <img src="https://github.com/rushhiii/Scriptable-IOSWidgets/blob/main/.assets/githubstats/githubstats_showcase.png?raw=true" width="700"/>
+  <img src="https://raw.githubusercontent.com/rushhiii/Scriptable-IOSWidgets/refs/heads/main/.assets/githubstats/githubstats_showcase.png" width="800"/>
 
 - [gitlab-stats-for-scribtable](https://github.com/p0fi/gitlab-stats-for-scribtable) - Statistics from GitLab like the number of assigned merge requests.
 
@@ -255,7 +255,7 @@
 
 - [Time-Progress](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/Widgets/TimeProgress%20Widget) - Animated progress rings and grids showing your day, week, month, and year at a glance.
 
-  <img src="https://raw.githubusercontent.com/rushhiii/Scriptable-IOSWidgets/main/.assets/timeprogress/timeprogress_showcase.png" width="700"/>
+  <img src="https://raw.githubusercontent.com/rushhiii/Scriptable-IOSWidgets/main/.assets/timeprogress/timeprogress_showcase.png" width="800"/>
 
 - [woocommerce-sales](https://gist.github.com/olikdesign/4c9c5549686c81e728b065286eb0e750) - Sales statistics from WooCommerce shop.
 
