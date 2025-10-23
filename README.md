@@ -201,7 +201,13 @@
 
 ## Sports
 
-- [CFBWidget](https://github.com/jaydainn/CFBWidget) - Latest scores of a NCAA college football team. 
+- [CFBWidget](https://github.com/jaydainn/CFBWidget) - Latest scores of a NCAA college football team.
+
+- [ClubConnector Gym Capacity Widget](https://github.com/v1lling/scriptable-clubconnector) - Shows real-time gym capacity for ClubConnector fitness studios with
+  beautiful charts and status indicators
+
+  <img src="https://raw.githubusercontent.com/v1lling/scriptable-clubconnector/main/images/preview.png" width="400">
+
 
 - [fitx-widget.js](https://gist.github.com/DanielStefanK/487175b6f65ede401e37ee4848970176) - Workload of a FitX gym.
 
