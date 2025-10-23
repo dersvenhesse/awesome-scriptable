@@ -119,6 +119,10 @@
 
 - [steam-wishlist.js](https://gist.github.com/brenoprata10/10d6bd1c8445a1181b899dd47c715577) - Shows items from a user's Steam wishlist.
 
+- [steam-profile-widget](https://github.com/SolsticeLeaf/Scriptable-Steam-Widget) - Shows a user's Steam profile.
+
+  <img src="https://raw.githubusercontent.com/SolsticeLeaf/Scriptable-Steam-Widget/refs/heads/master/.github/images/in_game.jpg?raw=true" height="200"/>
+
 ## Health
 
 - [Coronavirus.js](https://gist.github.com/planecore/e7b4c1e5db2dd28b1a023860e831355e) -  Covid-19 cases of a selected country.
