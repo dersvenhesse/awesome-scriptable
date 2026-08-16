@@ -222,6 +222,8 @@
 
   <img src="https://raw.githubusercontent.com/bestmacfly/Scriptable-lichess-Widget/main/Screenshot.png" width="400"/>
 
+- [scriptable-live-tennis](https://github.com/livetennisapi/scriptable-live-tennis) - Live tennis scores with serving and break-point indicators.
+
 - [skiable](https://github.com/p0fi/skiable-for-scriptable) - Skiing information like snow height or the number of open lifts. 
 
   <img src="https://raw.githubusercontent.com/p0fi/skiable-for-scriptable/main/cover.png" width="400"/>
