@@ -125,6 +125,10 @@
 
 ## Health
 
+- [Bedtime Calculator](https://gist.github.com/UdrWU9c0TjueDQY2/142d84855630ef2f8bc41aa2e534ffb5) - When to go to bed for your wake-up time, based on 90-minute sleep cycles.
+
+  <img src="https://raw.githubusercontent.com/UdrWU9c0TjueDQY2/free-calendar-feeds/main/static/widgets/bedtime.png" width="400"/>
+
 - [Coronavirus.js](https://gist.github.com/planecore/e7b4c1e5db2dd28b1a023860e831355e) -  Covid-19 cases of a selected country.
 
 - [incidence.js](https://gist.github.com/kevinkub/46caebfebc7e26be63403a7f0587f664) - Covid-19 incidence data for Germany.
