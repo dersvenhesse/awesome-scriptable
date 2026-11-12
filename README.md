@@ -248,6 +248,10 @@
 
   <img src="https://raw.githubusercontent.com/p0fi/gitlab-stats-for-scribtable/main/cover.png" width="800"/>
 
+- [Golden Hour Tonight](https://gist.github.com/UdrWU9c0TjueDQY2/97a89a6cf3ea2e344b6acae05d02d8a1) - Tonight's golden hour, sunset and blue hour for your location, with a countdown.
+
+  <img src="https://raw.githubusercontent.com/UdrWU9c0TjueDQY2/free-calendar-feeds/main/static/widgets/golden-hour.png" width="400"/>
+
 - [mz_invisible_widget.js](https://gist.github.com/mzeryck/3a97ccd1e059b3afa3c6666d27a496c9) - Creation of "invisible" backgrounds.
 
 - [PurpleAir-AQI-Scriptable-Widget](https://github.com/jasonsnell/PurpleAir-AQI-Scriptable-Widget) - Air Quality from PurpleAir sensor.
