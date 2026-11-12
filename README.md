@@ -69,6 +69,10 @@
 
 ## Calendar
 
+- [Advent & Christmas Countdown](https://gist.github.com/UdrWU9c0TjueDQY2/7957d782ee68a76d80a94914e74a7010) - Days until Advent, the day of Advent and days to Christmas, then the twelve days of Christmas.
+
+  <img src="https://raw.githubusercontent.com/UdrWU9c0TjueDQY2/free-calendar-feeds/main/static/widgets/advent.png" width="400"/>
+
 - [Class Schedule Viewer](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/Widgets/Schedule%20Widget) - Displays your daily or weekly class schedule from a Google Sheet.
 
   <img src="https://raw.githubusercontent.com/rushhiii/Scriptable-IOSWidgets/refs/heads/main/.assets/schedule/schedule_showcase.png" width="700"/>
