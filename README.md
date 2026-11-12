@@ -163,6 +163,10 @@
 
   <img src="https://raw.githubusercontent.com/rushhiii/Scriptable-IOSWidgets/refs/heads/main/.assets/quotes/quote_showcase.png" width="800"/>
 
+- [Proverb of the Day](https://gist.github.com/UdrWU9c0TjueDQY2/4932806b40270bd3d8f1fed734e1d346) - A verse from the chapter of Proverbs that matches today's date (KJV).
+
+  <img src="https://raw.githubusercontent.com/UdrWU9c0TjueDQY2/free-calendar-feeds/main/static/widgets/proverbs.png" width="400"/>
+
 - [scriptable-news-Widget.js](https://github.com/Saudumm/scriptable-News-Widget) - The latest posts from a feed or a WordPress blog.
 
   <img src="https://raw.githubusercontent.com/Saudumm/scriptable-News-Widget/main/images/widgets.jpg" width="800"/>
